@@ -189,7 +189,7 @@
     }
   },
   {
-     "id": "darbagh",
+    "id": "darbagh",
     "name": "درباغ",
     "province": "کرمان",
     "county": "بم",
@@ -207,6 +207,300 @@
       "خانوار": "۱۱۶",
       "جمعیت زن": "۱۵۷",
       "جمعیت مرد": "۱۶۴"
+    }
+  },
+  {
+    "id": "sarjangal",
+    "name": "سرجنگل",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12081,
+    "longitude": 58.26321,
+    "elevation": "۱۱۵۸ متر",
+    "population": "حدود ۲۰۸ نفر",
+    "category": "روستایی کشاورزی با محیطی دلنشین",
+    "bestSeason": "بهار و پاییز",
+    "description": "سرجنگل از روستاهای شهرستان بم است که با باغ‌ها و زمین‌های کشاورزی، محیطی آرام و دلنشین دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۷۳",
+      "جمعیت زن": "۹۲",
+      "جمعیت مرد": "۱۱۶"
+    }
+  },
+  {
+    "id": "ghaleh-askar",
+    "name": "قلعه عسکر",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12435,
+    "longitude": 58.27128,
+    "elevation": "۱۱۴۲ متر",
+    "population": "حدود ۴۰۴ نفر",
+    "category": "روستایی کشاورزی با محیطی دلنشین",
+    "bestSeason": "بهار و پاییز",
+    "description": "قلعه عسکر از روستاهای شهرستان بم است که پیشینه روستایی و فعالیت‌های کشاورزی در آن اهمیت دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۳۹",
+      "جمعیت زن": "۲۰۱",
+      "جمعیت مرد": "۲۰۳"
+    }
+  },
+  {
+    "id": "gavmordeh",
+    "name": "گاومرده",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12874,
+    "longitude": 58.30568,
+    "elevation": "۱۱۴۲ متر",
+    "population": "حدود ۱۱۹ نفر",
+    "category": "روستایی کشاورزی با محیطی دلنشین",
+    "bestSeason": "بهار و پاییز",
+    "description": "گاومرده روستایی کوچک در شهرستان بم است که ساکنان آن عمدتاً به کشاورزی و باغداری مشغول هستند.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۳۶",
+      "جمعیت زن": "۵۲",
+      "جمعیت مرد": "۶۷"
+    }
+  },
+  {
+    "id": "gazdar",
+    "name": "گزدر",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12848,
+    "longitude": 58.25301,
+    "elevation": "۱۱۵۰ متر",
+    "population": "حدود ۲۶۵ نفر",
+    "category": "روستایی کشاورزی با محیطی دلنشین",
+    "bestSeason": "بهار و پاییز",
+    "description": "گزدر از روستاهای شهرستان بم است که با باغ‌ها و فضای آرام روستایی شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۸۰",
+      "جمعیت زن": "۱۳۰",
+      "جمعیت مرد": "۱۳۵"
+    }
+  },
+  {
+    "id": "hararan",
+    "name": "هراران",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12848,
+    "longitude": 58.25301,
+    "elevation": "۱۱۵۰ متر",
+    "population": "حدود ۴۹۶ نفر",
+    "category": "روستایی کشاورزی با محیطی دلنشین",
+    "bestSeason": "بهار و پاییز",
+    "description": "هراران از روستاهای شهرستان بم است که اقتصاد آن بر پایه کشاورزی و باغداری شکل گرفته است.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۴۸",
+      "جمعیت زن": "۲۲۷",
+      "جمعیت مرد": "۲۶۹"
+    }
+  },
+  {
+    "id": "abgarm",
+    "name": "آبگرم",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 28.88985,
+    "longitude": 58.15628,
+    "elevation": "۲۰۶۰ متر",
+    "population": "حدود ۴۴۲ نفر",
+    "category": "روستایی کوهستانی با آب‌وهوای خنک",
+    "bestSeason": "بهار و تابستان",
+    "description": "آبگرم در منطقه‌ای مرتفع قرار دارد و به دلیل آب‌وهوای خنک و طبیعت کوهستانی، مقصدی مناسب در فصول گرم سال است.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۳۶",
+      "جمعیت زن": "۲۲۹",
+      "جمعیت مرد": "۲۱۳"
+    }
+  },
+  {
+    "id": "aduri",
+    "name": "آدوری",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 28.97593,
+    "longitude": 58.12810,
+    "elevation": "۱۶۵۰ متر",
+    "population": "حدود ۳۷۹ نفر",
+    "category": "روستایی کوهپایه‌ای با طبیعت بکر",
+    "bestSeason": "بهار و تابستان",
+    "description": "آدوری از روستاهای کوهپایه‌ای شهرستان بم است که طبیعتی آرام و چشم‌اندازهای زیبایی دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۳۴",
+      "جمعیت زن": "۱۸۹",
+      "جمعیت مرد": "۱۹۰"
+    }
+  },
+  {
+    "id": "anaran",
+    "name": "اناران",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12435,
+    "longitude": 58.27128,
+    "elevation": "۱۱۴۲ متر",
+    "population": "حدود ۱۳۰ نفر",
+    "category": "روستایی آرام با باغ‌های کشاورزی",
+    "bestSeason": "بهار و پاییز",
+    "description": "اناران از روستاهای کوچک شهرستان بم است که محیطی آرام و مناسب برای فعالیت‌های کشاورزی دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۵۵",
+      "جمعیت زن": "۶۵",
+      "جمعیت مرد": "۶۵"
+    }
+  },
+  {
+    "id": "bagh-tak",
+    "name": "باغ تک",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 28.85878,
+    "longitude": 58.20394,
+    "elevation": "۱۸۸۵ متر",
+    "population": "حدود ۲۶۳ نفر",
+    "category": "روستایی کوهستانی با باغ‌های سرسبز",
+    "bestSeason": "بهار و تابستان",
+    "description": "باغ تک در ارتفاعات شهرستان بم قرار گرفته و با طبیعت کوهستانی و باغ‌های خود شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۸۷",
+      "جمعیت زن": "۱۲۶",
+      "جمعیت مرد": "۱۳۷"
+    }
+  },
+  {
+    "id": "papdeh",
+    "name": "پاپده",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12452,
+    "longitude": 58.20391,
+    "elevation": "۱۲۲۱ متر",
+    "population": "حدود ۱۲۵ نفر",
+    "category": "روستایی کشاورزی با فضای سنتی",
+    "bestSeason": "بهار و پاییز",
+    "description": "پاپده از روستاهای شهرستان بم است که زندگی در آن بر پایه کشاورزی و باغداری جریان دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۴۰",
+      "جمعیت زن": "۶۱",
+      "جمعیت مرد": "۶۴"
+    }
+  },
+  {
+    "id": "pootar",
+    "name": "پوطار",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.00337,
+    "longitude": 58.05266,
+    "elevation": "۱۹۲۲ متر",
+    "population": "حدود ۱۵۰ نفر",
+    "category": "روستایی کوهستانی با آب‌وهوای مطبوع",
+    "bestSeason": "بهار و تابستان",
+    "description": "پوطار در منطقه‌ای مرتفع واقع شده و به دلیل طبیعت کوهستانی و آب‌وهوای مناسب شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۵۶",
+      "جمعیت زن": "۶۶",
+      "جمعیت مرد": "۸۴"
+    }
+  },
+  {
+    "id": "tavakolabad",
+    "name": "توکل آباد",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.01096,
+    "longitude": 58.04858,
+    "elevation": "۱۹۰۰ متر",
+    "population": "حدود ۱۶۰ نفر",
+    "category": "روستایی کوهپایه‌ای با طبیعت دلنشین",
+    "bestSeason": "بهار و تابستان",
+    "description": "توکل آباد از روستاهای مرتفع شهرستان بم است که کشاورزی و باغداری در آن رواج دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۵۰",
+      "جمعیت زن": "۷۷",
+      "جمعیت مرد": "۸۳"
+    }
+  },
+  {
+    "id": "titubar",
+    "name": "تیتوبر",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 28.86627,
+    "longitude": 58.17031,
+    "elevation": "۲۲۴۰ متر",
+    "population": "حدود ۱۸۳ نفر",
+    "category": "روستایی مرتفع با طبیعت کوهستانی",
+    "bestSeason": "بهار و تابستان",
+    "description": "تیتوبر از مرتفع‌ترین روستاهای شهرستان بم است و آب‌وهوای خنک و چشم‌اندازهای طبیعی زیبایی دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۵۶",
+      "جمعیت زن": "۹۷",
+      "جمعیت مرد": "۸۶"
+    }
+  },
+  {
+    "id": "jazin",
+    "name": "جزین",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۴۳۶ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "جزین از روستاهای مرتفع شهرستان بم است که طبیعت زیبا و باغ‌های آن جلوه‌ای خاص به منطقه بخشیده است.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۴۰",
+      "جمعیت زن": "۲۱۸",
+      "جمعیت مرد": "۲۱۸"
     }
   }
 ]
