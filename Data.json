@@ -1,131 +1,212 @@
 [
   {
-    "id": "jazin",
-    "name": "جزین",
+    "id": "eslamabad",
+    "name": "اسلام‌آباد",
     "province": "کرمان",
     "county": "بم",
-    "latitude": 29.04846,
-    "longitude": 57.98676,
-    "elevation": "۹۲۰ متر",
-    "population": "حدود ۸۰۰ نفر",
-    "category": "کوهستانی",
-    "bestSeason": "پاییز و زمستان",
-    "description": "روستایی سرسبز و شگفت‌انگیز در حومه شهرستان بم که با نخلستان‌های انبوه خرما مضافتی و باغ‌های زیبای مرکبات احاطه شده است. قنات‌های پرآب تاریخی این روستا مایه حیات آن در دل کویر است و بافتی گرم، صمیمی و کاه‌گلی دارد.",
-    "attractions": [
-      "نخلستان‌های سرافراز خرما مضافتی بم",
-      "قنات باستانی و پرآب جزین",
-      "باغات زیبای پرتقال و نارنگی",
-      "خانه‌های بافت سنتی با معماری بومی کویری"
-    ],
-    "funFact": "این روستا یکی از قطب‌های اصلی تولید مرغوب‌ترین خرمای مضافتی جهان است که به کشورهای مختلفی صادر می‌شود.",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "مدرسه": "دارد",
-      "درمانگاه": "دارد (مرکز بهداشت)",
-      "قنات فعال": "بله"
-    }
-  },
-  {
-    "id": "darijan",
-    "name": "دریجان",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.02378,
-    "longitude": 58.01502,
-    "elevation": "۱۶۵۰ متر",
-    "population": "حدود ۴۵۰ نفر",
-    "category": "کوهستانی و ییلاقی",
-    "bestSeason": "بهار و تابستان",
-    "description": "",
+    "latitude": 29.12263,
+    "longitude": 58.26722,
+    "elevation": "۱۱۵۰ متر",
+    "population": "حدود ۱۶۱ نفر",
+    "category": "روستایی با بافت کشاورزی و طبیعت آرام",
+    "bestSeason": "بهار و اوایل پاییز",
+    "description": "روستای اسلام‌آباد از روستاهای شهرستان بم است که با باغ‌های کشاورزی و فضای آرام روستایی شناخته می‌شود.",
     "attractions": [],
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
     "hazards": "بدون مخاطره خاص",
     "dynamicProperties": {
-      "مدرسه": "دارد (دبستان آزادی)",
-      "درمانگاه": "ندارد (خانه بهداشت روستایی)",
-      "آنتن‌دهی موبایل": "دارد (4G همراه اول)"
+      "خانوار": "۵۶",
+      "جمعیت زن": "۸۰",
+      "جمعیت مرد": "۸۱"
     }
   },
   {
-    "id": "darbar",
-    "name": "دربر",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.04098,
-    "longitude": 58.00995,
-    "elevation": "۱۸۲۰ متر",
-    "population": "حدود ۶۰۰ نفر",
-    "category": "طبیعی و کوهستانی",
-    "bestSeason": "اردیبهشت تا مهر",
-    "description": "روستای دربر بهشت مخفی بخش دهبکری بم است. این روستا با رودخانه جاری دائمی، چنارهای کهنسال سر به فلک کشیده و طبیعت کوهستانی بکر خود، تفرجگاهی بی‌نظیر برای مسافران گریزان از گرمای کویر فراهم کرده است.",
-    "attractions": [
-      "رودخانه دربر و آبشار کوچک دره",
-      "چنار هزارساله و تومارهای تاریخی قنات",
-      "باغ‌های گیلاس، بادام و آلوچه",
-      "قله‌های کوهستانی مرتفع اطراف تفریحگاه"
-    ],
-    "funFact": "گفته می‌شود چنار کهنسال وسط روستا قدمتی بیش از هشتصد سال دارد و به عنوان سایبان اصلی تجمعات روستا شناخته می‌شود.",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "مدرسه": "دارد",
-      "درمانگاه": "دارد",
-      "اقامتگاه بوم‌گردی": "دارد (خانه دربر)"
-    }
-  },
-  {
-    "id": "adoori",
-    "name": "آدوری",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.97591,
-    "longitude": 58.12813,
-    "elevation": "۱۴۵۰ متر",
-    "population": "حدود ۳۵۰ نفر",
-    "category": "باستانی و صخره‌ای",
-    "bestSeason": "بهار و پاییز",
-    "description": "روستایی دنج و صخره‌ای با خانه‌هایی ساخته‌شده از مصالح تماماً بومی، سنگ و گل اخرایی. آدوری به علت شیب تند تپه‌ها دارای معماری نیمه‌پلکانی زیبایی است و تمدنی کهن در سینه خود پنهان کرده است.",
-    "attractions": [
-      "بافت پلکانی گلی و سنگی خانه‌ها",
-      "آثار دژهای نگهبانی باستانی بر قله صخره",
-      "طبیعت وحشی اطراف و چشمه‌های درمانی",
-      "صنایع دستی دستی سوزن‌دوزی و حصیربافی"
-    ],
-    "funFact": "در آدوری به دلیل وفور خاک رس سرخ، بسیاری از دیوارهای قدیمی رنگ مایل به ارغوانی و بسیار جذابی دارند.",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "مدرسه": "ندارد (مدرسه عشایری فصلی)",
-      "درمانگاه": "ندارد",
-      "مسجد تاریخی": "دارد"
-    }
-  },
-  {
-    "id": "amirAbad",
+    "id": "amirabad",
     "name": "امیرآباد",
     "province": "کرمان",
     "county": "بم",
-    "latitude": 28.97591,
-    "longitude": 58.12813,
-    "elevation": "۱۴۵۰ متر",
-    "population": "حدود ۳۵۰ نفر",
-    "category": "باستانی و صخره‌ای",
+    "latitude": 29.12709,
+    "longitude": 58.28427,
+    "elevation": "۱۱۳۰ متر",
+    "population": "حدود ۲۰۹۱ نفر",
+    "category": "روستایی کشاورزی با نخلستان‌های گسترده",
     "bestSeason": "بهار و پاییز",
-    "description": "روستایی دنج و صخره‌ای با خانه‌هایی ساخته‌شده از مصالح تماماً بومی، سنگ و گل اخرایی. آدوری به علت شیب تند تپه‌ها دارای معماری نیمه‌پلکانی زیبایی است و تمدنی کهن در سینه خود پنهان کرده است.",
-    "attractions": [
-      "بافت پلکانی گلی و سنگی خانه‌ها",
-      "آثار دژهای نگهبانی باستانی بر قله صخره",
-      "طبیعت وحشی اطراف و چشمه‌های درمانی",
-      "صنایع دستی دستی سوزن‌دوزی و حصیربافی"
-    ],
-    "funFact": "در آدوری به دلیل وفور خاک رس سرخ، بسیاری از دیوارهای قدیمی رنگ مایل به ارغوانی و بسیار جذابی دارند.",
+    "description": "امیرآباد از روستاهای پرجمعیت بخش مرکزی بم است و اقتصاد آن بر پایه کشاورزی و نخلداری است.",
+    "attractions": [],
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
     "hazards": "بدون مخاطره خاص",
     "dynamicProperties": {
-      "مدرسه": "ندارد (مدرسه عشایری فصلی)",
-      "درمانگاه": "ندارد",
-      "مسجد تاریخی": "دارد"
+      "خانوار": "۶۸۹",
+      "جمعیت زن": "۱۰۱۵",
+      "جمعیت مرد": "۱۰۷۶"
+    }
+  },
+  {
+    "id": "baghchamak",
+    "name": "باغچمک",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.13759,
+    "longitude": 58.27407,
+    "elevation": "۱۱۵۰ متر",
+    "population": "حدود ۱۵۱۸ نفر",
+    "category": "روستایی سرسبز با باغ‌ها و زمین‌های کشاورزی",
+    "bestSeason": "بهار و پاییز",
+    "description": "باغچمک از روستاهای حاصلخیز شهرستان بم است که باغداری و کشاورزی در آن رونق دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۴۵۵",
+      "جمعیت زن": "۷۳۶",
+      "جمعیت مرد": "۷۸۲"
+    }
+  },
+  {
+    "id": "bidran-kohneh",
+    "name": "بیدران کهنه",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12751,
+    "longitude": 58.25943,
+    "elevation": "۱۱۶۳ متر",
+    "population": "حدود ۴۹۵ نفر",
+    "category": "روستایی تاریخی با فضای سنتی",
+    "bestSeason": "بهار و اوایل پاییز",
+    "description": "بیدران کهنه از روستاهای قدیمی منطقه است که با بافت سنتی و فعالیت‌های کشاورزی شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۵۴",
+      "جمعیت زن": "۲۳۵",
+      "جمعیت مرد": "۲۶۰"
+    }
+  },
+  {
+    "id": "bidran-no",
+    "name": "بیدران نو",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12848,
+    "longitude": 58.25301,
+    "elevation": "۱۱۶۳ متر",
+    "population": "حدود ۵۳۳ نفر",
+    "category": "روستایی کشاورزی با بافت نوساز",
+    "bestSeason": "بهار و پاییز",
+    "description": "بیدران نو در نزدیکی بیدران کهنه قرار دارد و از روستاهای فعال در زمینه کشاورزی و باغداری است.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۵۱",
+      "جمعیت زن": "۲۴۹",
+      "جمعیت مرد": "۲۸۴"
+    }
+  },
+  {
+    "id": "pakam",
+    "name": "پاکم",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12788,
+    "longitude": 58.26712,
+    "elevation": "۱۱۵۰ متر",
+    "population": "حدود ۸۰۲ نفر",
+    "category": "روستایی با باغ‌های خرما و فضای آرام",
+    "bestSeason": "بهار و پاییز",
+    "description": "پاکم از روستاهای شهرستان بم است که کشاورزی و نخلداری مهم‌ترین فعالیت اقتصادی ساکنان آن محسوب می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۲۲۸",
+      "جمعیت زن": "۳۸۲",
+      "جمعیت مرد": "۴۲۰"
+    }
+  },
+  {
+    "id": "hamzeei",
+    "name": "حمزه‌ای",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12180,
+    "longitude": 58.30169,
+    "elevation": "۱۱۱۱ متر",
+    "population": "حدود ۲۳۸ نفر",
+    "category": "روستایی کوچک با طبیعت روستایی",
+    "bestSeason": "بهار و اوایل پاییز",
+    "description": "حمزه‌ای روستایی آرام در شهرستان بم است که محیطی مناسب برای زندگی روستایی و فعالیت‌های کشاورزی دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۹۱",
+      "جمعیت زن": "۱۱۵",
+      "جمعیت مرد": "۱۲۳"
+    }
+  },
+  {
+    "id": "khajeh-askar",
+    "name": "خواجه عسکر",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12008,
+    "longitude": 58.26194,
+    "elevation": "۱۱۵۸ متر",
+    "population": "حدود ۲۰۴۲ نفر",
+    "category": "روستایی پرجمعیت با اقتصاد کشاورزی",
+    "bestSeason": "بهار و پاییز",
+    "description": "خواجه عسکر از روستاهای مهم شهرستان بم است که به دلیل جمعیت مناسب و فعالیت‌های کشاورزی شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۶۳۰",
+      "جمعیت زن": "۱۰۰۱",
+      "جمعیت مرد": "۱۰۴۱"
+    }
+  },
+  {
+    "id": "khajeh-nezam",
+    "name": "خواجه نظام",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.13342,
+    "longitude": 58.24203,
+    "elevation": "۱۱۸۴ متر",
+    "population": "حدود ۴۱۹ نفر",
+    "category": "روستایی آرام با چشم‌انداز طبیعی",
+    "bestSeason": "بهار و اوایل پاییز",
+    "description": "خواجه نظام از روستاهای شهرستان بم است که با فضای روستایی، باغ‌ها و زمین‌های کشاورزی شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۳۶",
+      "جمعیت زن": "۲۰۱",
+      "جمعیت مرد": "۲۱۸"
+    }
+  },
+  {
+     "id": "darbagh",
+    "name": "درباغ",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.12435,
+    "longitude": 58.27128,
+    "elevation": "۱۱۴۲ متر",
+    "population": "حدود ۳۲۱ نفر",
+    "category": "روستایی کشاورزی با محیطی دلنشین",
+    "bestSeason": "بهار و پاییز",
+    "description": "دریجان از روستاهای شهرستان بم است که با باغ‌ها، نخلستان‌ها و محیط آرام روستایی شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۱۶",
+      "جمعیت زن": "۱۵۷",
+      "جمعیت مرد": "۱۶۴"
     }
   }
 ]
