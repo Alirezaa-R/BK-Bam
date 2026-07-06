@@ -503,11 +503,6 @@
       "جمعیت مرد": "۲۱۸"
     }
   },
-
-
-
-
-
   {
     "id": "cheshmeha-bala",
     "name": "چشمه‌هابالا",
@@ -655,7 +650,6 @@
       "جمعیت مرد": "۴۰۲"
     }
   },
-
   {
     "id": "desk",
     "name": "دسک",
@@ -808,9 +802,9 @@
     "name": "گزتین",
     "province": "کرمان",
     "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
+    "latitude": 28.95593,
+    "longitude": 58.10748,
+    "elevation": "۱۶۹۳ متر",
     "population": "حدود ۱۲۱ نفر",
     "category": "روستایی کوهستانی با باغ‌های میوه",
     "bestSeason": "بهار و تابستان",
@@ -844,6 +838,131 @@
       "جمعیت زن": "۱۰۴",
       "جمعیت مرد": "۱۲۱"
     }
+  },
+  {
+    "id": "galupedeh",
+    "name": "گلوپده",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۲۲۷ نفر",
+    "category": "کوهستانی و ییلاقی",
+    "bestSeason": "بهار و تابستان",
+    "description": "گلوپده، روستایی کوهستانی و سرسبز در بخش مرکزی شهرستان بم است که با باغ‌های میوه و آب‌وهوای خنک خود، مقصدی دلپذیر برای گردشگران به شمار می‌رود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۰۲",
+      "جمعیت زن": "۱۴۰",
+      "جمعیت مرد": "۱۳۷"
+    }
+  },
+  {
+    "id": "gudpadeh",
+    "name": "گودپده",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 28.87037,
+    "longitude": 58.19390,
+    "elevation": "۱۸۸۲ متر",
+    "population": "حدود ۲۴۲ نفر",
+    "category": "کوهستانی و ییلاقی",
+    "bestSeason": "بهار و تابستان",
+    "description": "گودپده از روستاهای خوش‌آب‌وهوای شهرستان بم است که با طبیعت بکر و باغ‌های پربار، فضایی آرام برای علاقه‌مندان به گردشگری روستایی فراهم کرده است.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۹۵",
+      "جمعیت زن": "۱۲۵",
+      "جمعیت مرد": "۱۱۷"
+    }
+  },
+  {
+    "id": "guru",
+    "name": "گورو",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۲۰۷ نفر",
+    "category": "کوهستانی و ییلاقی",
+    "bestSeason": "بهار و تابستان",
+    "description": "گورو، روستایی ییلاقی در نزدیکی شهر بم است که به دلیل موقعیت کوهستانی و باغ‌های میوه‌اش، مقصدی محبوب برای فرار از گرمای تابستان به شمار می‌رود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۸۵",
+      "جمعیت زن": "۱۰۰",
+      "جمعیت مرد": "۱۰۷"
+    }
+  },
+  {
+    "id": "gook",
+    "name": "گوک",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۱۸۲ نفر",
+    "category": "کوهستانی و ییلاقی",
+    "bestSeason": "بهار و تابستان",
+    "description": "گوک از روستاهای کوهپایه‌ای بم با چشم‌اندازهای زیبا و هوای مطبوع است که برای علاقه‌مندان به طبیعت‌گردی و بازدید از باغ‌های سنتی جذابیت دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۶۶",
+      "جمعیت زن": "۹۳",
+      "جمعیت مرد": "۸۹"
+    }
+  },
+  {
+    "id": "maghuiyeh",
+    "name": "مغوئیه",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 28.958209,
+    "longitude": 58.112240,
+    "elevation": "۱۶۵۰ متر",
+    "population": "حدود ۲۳۱ نفر",
+    "category": "کوهستانی و ییلاقی",
+    "bestSeason": "بهار و تابستان",
+    "description": "مغوئیه روستایی کوهستانی در شرق بم است که با باغ‌های سرسبز و چشمه‌های جاری، فضایی دلنشین برای گردشگران و طبیعت‌دوستان پدید آورده است.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۸۱",
+      "جمعیت زن": "۱۰۴",
+      "جمعیت مرد": "۱۲۷"
+    }
+  },
+  {
+    "id": "mehrabad",
+    "name": "مهرآباد",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.001401,
+    "longitude": 58.084707,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۱۱۴ نفر",
+    "category": "کوهستانی و ییلاقی",
+    "bestSeason": "بهار و تابستان",
+    "description": "مهرآباد روستایی کوچک و خوش‌آب‌وهوا در حومه بم است که با باغ‌های میوه و منظره‌های کوهستانی، مکانی ایده‌آل برای یک روز آرام در دل طبیعت به شمار می‌رود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۳۳",
+      "جمعیت زن": "۵۸",
+      "جمعیت مرد": "۵۶"
+    }
   }
 ]
-
