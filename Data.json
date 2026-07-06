@@ -502,5 +502,348 @@
       "جمعیت زن": "۲۱۸",
       "جمعیت مرد": "۲۱۸"
     }
+  },
+
+
+
+
+
+  {
+    "id": "cheshmeha-bala",
+    "name": "چشمه‌هابالا",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۸۹ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "چشمه‌هابالا از روستاهای کوهستانی شهرستان بم است که با آب‌وهوای مطبوع، باغ‌های میوه و طبیعت آرام شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۳۷",
+      "جمعیت زن": "۴۳",
+      "جمعیت مرد": "۴۶"
+    }
+  },
+  {
+    "id": "hamid",
+    "name": "حمید",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 28.989333,
+    "longitude": 58.027915,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۸۳ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "روستای حمید در منطقه‌ای کوهستانی قرار دارد و کشاورزی و باغداری از مهم‌ترین فعالیت‌های ساکنان آن است.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۴۳",
+      "جمعیت زن": "۶۱",
+      "جمعیت مرد": "۲۱"
+    }
+  },
+  {
+    "id": "dardin",
+    "name": "داردین(دارزین ۱)",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.06051,
+    "longitude": 57.96839,
+    "elevation": "۱۹۶۱ متر",
+    "population": "حدود ۲۷۴ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "داردین یا دارزین ۱ از روستاهای مرتفع شهرستان بم است که طبیعت کوهستانی و باغ‌های میوه آن جلوه‌ای زیبا به منطقه داده است.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۸۱",
+      "جمعیت زن": "۱۳۰",
+      "جمعیت مرد": "۱۴۴"
+    }
+  },
+  {
+    "id": "darzin",
+    "name": "دارزین",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.18189,
+    "longitude": 58.12211,
+    "elevation": "۱۳۳۰ متر",
+    "population": "حدود ۴۱۵ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "دارزین از روستاهای شناخته‌شده شهرستان بم است که باغداری و کشاورزی نقش مهمی در اقتصاد آن دارند.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۵۱",
+      "جمعیت زن": "۱۹۸",
+      "جمعیت مرد": "۲۱۷"
+    }
+  },
+  {
+    "id": "darbar",
+    "name": "دربر",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.03736,
+    "longitude": 58.00463,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۲۶۷ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "دربر روستایی کوهستانی با طبیعتی آرام است که باغ‌های میوه و آب‌وهوای مطبوع از ویژگی‌های آن به شمار می‌رود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۹۱",
+      "جمعیت زن": "۱۳۹",
+      "جمعیت مرد": "۱۲۸"
+    }
+  },
+  {
+    "id": "darzarab",
+    "name": "درزرب",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 28.834530,
+    "longitude": 58.214445,
+    "elevation": "۲۰۱۳ متر",
+    "population": "حدود ۱۹۱ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "درزرب در ارتفاعات شهرستان بم قرار دارد و به دلیل آب‌وهوای خنک و طبیعت کوهستانی شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۵۷",
+      "جمعیت زن": "۹۶",
+      "جمعیت مرد": "۹۵"
+    }
+  },
+  {
+    "id": "darijan",
+    "name": "دریجان",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.02408,
+    "longitude": 58.01351,
+    "elevation": "۱۹۶۰ متر",
+    "population": "حدود ۷۸۷ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "دریجان از روستاهای مرتفع شهرستان بم است که با باغ‌های میوه، طبیعت زیبا و آب‌وهوای مطبوع شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۲۸۳",
+      "جمعیت زن": "۳۸۵",
+      "جمعیت مرد": "۴۰۲"
+    }
+  },
+
+  {
+    "id": "desk",
+    "name": "دسک",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 28.98214,
+    "longitude": 58.12102,
+    "elevation": "۱۶۳۶ متر",
+    "population": "حدود ۳۲۴ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "دسک از روستاهای کوهستانی شهرستان بم است که به دلیل آب‌وهوای مطبوع، باغداری و طبیعت سرسبز شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۱۰۸",
+      "جمعیت زن": "۱۶۲",
+      "جمعیت مرد": "۱۶۲"
+    }
+  },
+  {
+    "id": "dehneh-sarasiab",
+    "name": "دهنه سرآسیاب",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۱۹۶ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "دهنه سرآسیاب از روستاهای کوهستانی بم است که با طبیعت آرام و باغ‌های میوه، محیطی مناسب برای گردش در فصل‌های گرم سال دارد.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۶۹",
+      "جمعیت زن": "۱۰۲",
+      "جمعیت مرد": "۹۴"
+    }
+  },
+  {
+    "id": "zoomin",
+    "name": "زومین",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۲۰۰۰ متر",
+    "population": "حدود ۱۵۳ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "زومین در منطقه‌ای مرتفع قرار گرفته و به دلیل آب‌وهوای خنک و طبیعت کوهستانی، از روستاهای خوش‌آب‌وهوا محسوب می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۴۹",
+      "جمعیت زن": "۷۳",
+      "جمعیت مرد": "۸۰"
+    }
+  },
+  {
+    "id": "zeynaghouyeh",
+    "name": "زینقویه",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۱۶۵ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "زینقویه از روستاهای کوهستانی شهرستان بم است که باغداری و کشاورزی مهم‌ترین فعالیت اقتصادی ساکنان آن به شمار می‌رود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۷۱",
+      "جمعیت زن": "۷۶",
+      "جمعیت مرد": "۸۹"
+    }
+  },
+  {
+    "id": "savat",
+    "name": "ساوات",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05509,
+    "longitude": 57.97656,
+    "elevation": "۲۰۰۰ متر",
+    "population": "حدود ۹۶ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "ساوات روستایی کوچک در ارتفاعات شهرستان بم است که طبیعت بکر و آب‌وهوای خنک از ویژگی‌های آن محسوب می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۴۰",
+      "جمعیت زن": "۴۸",
+      "جمعیت مرد": "۴۸"
+    }
+  },
+  {
+    "id": "taghook",
+    "name": "طاغوک",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۱۱۲ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "طاغوک از روستاهای مرتفع شهرستان بم است که با باغ‌های میوه و چشم‌اندازهای طبیعی شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۴۵",
+      "جمعیت زن": "۵۱",
+      "جمعیت مرد": "۶۱"
+    }
+  },
+  {
+    "id": "garow",
+    "name": "گرو",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۴۶ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "گرو از روستاهای کم‌جمعیت شهرستان بم است که در محیطی کوهستانی و آرام قرار گرفته است.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۲۰",
+      "جمعیت زن": "۲۱",
+      "جمعیت مرد": "۲۵"
+    }
+  },
+  {
+    "id": "gaztin",
+    "name": "گزتین",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۱۲۱ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "گزتین روستایی کوهستانی در شهرستان بم است که باغداری و طبیعت دلنشین از ویژگی‌های آن به شمار می‌رود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۳۷",
+      "جمعیت زن": "۵۶",
+      "جمعیت مرد": "۶۵"
+    }
+  },
+  {
+    "id": "gazdan",
+    "name": "گزدان",
+    "province": "کرمان",
+    "county": "بم",
+    "latitude": 29.05120,
+    "longitude": 57.98853,
+    "elevation": "۱۹۱۲ متر",
+    "population": "حدود ۲۲۵ نفر",
+    "category": "روستایی کوهستانی با باغ‌های میوه",
+    "bestSeason": "بهار و تابستان",
+    "description": "گزدان از روستاهای شهرستان بم است که با طبیعت کوهستانی، باغ‌های میوه و آب‌وهوای مطبوع شناخته می‌شود.",
+    "attractions": [],
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "hazards": "بدون مخاطره خاص",
+    "dynamicProperties": {
+      "خانوار": "۸۹",
+      "جمعیت زن": "۱۰۴",
+      "جمعیت مرد": "۱۲۱"
+    }
   }
 ]
+
