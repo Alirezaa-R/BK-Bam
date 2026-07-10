@@ -12,7 +12,7 @@
       "basijBase": false,
       "school": false,
       "hazards": false,
-      "crisisManagementFacilities": false
+      "crisisManagementFacilities": true
     },
     "details": {
       "school": null,
@@ -21,6 +21,9 @@
       ],
       "sportsFacility": null,
       "hazards": null,
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "population": {
         "total": 161,
         "female": 80,
@@ -36,8 +39,7 @@
         "toEmergencyBase": 1.83,
         "toDistrictCenter": 0.51
       },
-       
-      "description": "روستایی زیبا"
+      "description": null
     }
   },
   {
@@ -53,7 +55,7 @@
       "basijBase": false,
       "school": false,
       "hazards": false,
-      "crisisManagementFacilities": false
+      "crisisManagementFacilities": true
     },
     "details": {
       "school": null,
@@ -78,7 +80,6 @@
         "toEmergencyBase": 3.03,
         "toDistrictCenter": 2.2
       },
-       
       "description": null
     }
   },
@@ -127,7 +128,6 @@
         "toEmergencyBase": 1.96,
         "toDistrictCenter": 2.26
       },
-       
       "description": null
     }
   },
@@ -174,7 +174,6 @@
         "toEmergencyBase": 0.93,
         "toDistrictCenter": 0.96
       },
-       
       "description": null
     }
   },
@@ -222,7 +221,6 @@
         "toEmergencyBase": 0.68,
         "toDistrictCenter": 1.41
       },
-       
       "description": null
     }
   },
@@ -267,7 +265,6 @@
         "toEmergencyBase": 1.45,
         "toDistrictCenter": 1.0
       },
-       
       "description": null
     }
   },
@@ -308,7 +305,6 @@
         "toEmergencyBase": 5.01,
         "toDistrictCenter": 5.8
       },
-       
       "description": null
     }
   },
@@ -349,7 +345,6 @@
         "toEmergencyBase": 4.82,
         "toDistrictCenter": 3.73
       },
-       
       "description": null
     }
   },
@@ -394,7 +389,6 @@
         "toEmergencyBase": 1.77,
         "toDistrictCenter": 0.15
       },
-       
       "description": null
     }
   },
@@ -440,7 +434,6 @@
         "toEmergencyBase": 1.19,
         "toDistrictCenter": 2.58
       },
-       
       "description": null
     }
   },
@@ -483,7 +476,6 @@
         "toEmergencyBase": 2.01,
         "toDistrictCenter": 0.94
       },
-       
       "description": null
     }
   },
@@ -522,7 +514,6 @@
         "toEmergencyBase": 1.76,
         "toDistrictCenter": 0.14
       },
-       
       "description": null
     }
   },
@@ -561,7 +552,6 @@
         "toEmergencyBase": 2.01,
         "toDistrictCenter": 0.94
       },
-       
       "description": null
     }
   },
@@ -602,7 +592,6 @@
         "toEmergencyBase": 5.04,
         "toDistrictCenter": 4.24
       },
-       
       "description": null
     }
   },
@@ -647,7 +636,6 @@
         "toEmergencyBase": 0.68,
         "toDistrictCenter": 1.41
       },
-       
       "description": null
     }
   },
@@ -688,7 +676,6 @@
         "toEmergencyBase": 0.68,
         "toDistrictCenter": 1.41
       },
-       
       "description": null
     }
   },
@@ -727,7 +714,6 @@
         "toEmergencyBase": 2.01,
         "toDistrictCenter": 0.94
       },
-       
       "description": null
     }
   },
@@ -772,7 +758,6 @@
         "toEmergencyBase": 28.83,
         "toDistrictCenter": 27.58
       },
-       
       "description": null
     }
   },
@@ -811,7 +796,6 @@
         "toEmergencyBase": 21.48,
         "toDistrictCenter": 20.69
       },
-       
       "description": null
     }
   },
@@ -854,7 +838,6 @@
         "toEmergencyBase": 31.05,
         "toDistrictCenter": 29.57
       },
-       
       "description": null
     }
   },
@@ -899,7 +882,6 @@
         "toEmergencyBase": 24.42,
         "toDistrictCenter": 24.21
       },
-       
       "description": null
     }
   },
@@ -941,7 +923,6 @@
         "toEmergencyBase": 24.26,
         "toDistrictCenter": 24.11
       },
-       
       "description": null
     }
   },
@@ -982,7 +963,6 @@
         "toEmergencyBase": 30.93,
         "toDistrictCenter": 29.58
       },
-       
       "description": null
     }
   },
@@ -1024,7 +1004,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1063,7 +1042,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1104,7 +1082,6 @@
         "toEmergencyBase": 28.97,
         "toDistrictCenter": 29.4
       },
-       
       "description": null
     }
   },
@@ -1146,7 +1123,6 @@
         "toEmergencyBase": 13.87,
         "toDistrictCenter": 15.37
       },
-       
       "description": null
     }
   },
@@ -1188,7 +1164,6 @@
         "toEmergencyBase": 26.55,
         "toDistrictCenter": 26.75
       },
-       
       "description": null
     }
   },
@@ -1229,7 +1204,6 @@
         "toEmergencyBase": 33.58,
         "toDistrictCenter": 32.05
       },
-       
       "description": null
     }
   },
@@ -1278,7 +1252,6 @@
         "toEmergencyBase": 26.42,
         "toDistrictCenter": 26.5
       },
-       
       "description": null
     }
   },
@@ -1319,7 +1292,6 @@
         "toEmergencyBase": 21.33,
         "toDistrictCenter": 20.61
       },
-       
       "description": null
     }
   },
@@ -1361,7 +1333,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1403,7 +1374,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1442,7 +1412,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1483,7 +1452,6 @@
         "toEmergencyBase": 28.39,
         "toDistrictCenter": 28.78
       },
-       
       "description": null
     }
   },
@@ -1522,7 +1490,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1563,7 +1530,6 @@
         "toEmergencyBase": 24.45,
         "toDistrictCenter": 23.68
       },
-       
       "description": null
     }
   },
@@ -1602,7 +1568,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1645,7 +1610,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1684,7 +1648,6 @@
         "toEmergencyBase": 29.95,
         "toDistrictCenter": 28.52
       },
-       
       "description": null
     }
   },
@@ -1723,7 +1686,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1762,7 +1724,6 @@
         "toEmergencyBase": 27.43,
         "toDistrictCenter": 27.77
       },
-       
       "description": null
     }
   },
@@ -1805,7 +1766,6 @@
         "toEmergencyBase": 23.98,
         "toDistrictCenter": 23.19
       },
-       
       "description": null
     }
   },
@@ -1846,7 +1806,6 @@
         "toEmergencyBase": 22.15,
         "toDistrictCenter": 21.78
       },
-       
       "description": null
     }
   }
