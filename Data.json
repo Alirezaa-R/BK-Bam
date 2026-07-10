@@ -1,968 +1,1853 @@
 [
   {
-    "id": "eslamabad",
-    "name": "اسلام‌آباد",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12263,
-    "longitude": 58.26722,
-    "elevation": "۱۱۵۰ متر",
-    "population": "حدود ۱۶۱ نفر",
-    "category": "روستایی با بافت کشاورزی و طبیعت آرام",
-    "bestSeason": "بهار و اوایل پاییز",
-    "description": "روستای اسلام‌آباد از روستاهای شهرستان بم است که با باغ‌های کشاورزی و فضای آرام روستایی شناخته می‌شود.",
-    "attractions": [],
+    "village": "اسلام آباد",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۵۶",
-      "جمعیت زن": "۸۰",
-      "جمعیت مرد": "۸۱"
+    "summary": {
+      "householdCount": 56,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "حسینیه ابوالفضل (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 161,
+        "female": 80,
+        "male": 81
+      },
+      "elevation": 1150,
+      "location": {
+        "latitude": 29.12263,
+        "longitude": 58.26722
+      },
+      "distancesKm": {
+        "toHealthCenter": 12.99,
+        "toEmergencyBase": 1.83,
+        "toDistrictCenter": 0.51
+      },
+       
+      "description": "روستایی زیبا"
     }
   },
   {
-    "id": "amirabad",
-    "name": "امیرآباد",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12709,
-    "longitude": 58.28427,
-    "elevation": "۱۱۳۰ متر",
-    "population": "حدود ۲۰۹۱ نفر",
-    "category": "روستایی کشاورزی با نخلستان‌های گسترده",
-    "bestSeason": "بهار و پاییز",
-    "description": "امیرآباد از روستاهای پرجمعیت بخش مرکزی بم است و اقتصاد آن بر پایه کشاورزی و نخلداری است.",
-    "attractions": [],
+    "village": "امیر آباد",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۶۸۹",
-      "جمعیت زن": "۱۰۱۵",
-      "جمعیت مرد": "۱۰۷۶"
+    "summary": {
+      "householdCount": 689,
+      "villageCouncilBuilding": true,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد سقای تشنگان ابالفضل العباس شهرک امام علی (ع)",
+        "مسجد ابوالفضل  امیرآباد"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 2091,
+        "female": 1015,
+        "male": 1076
+      },
+      "elevation": 1130,
+      "location": {
+        "latitude": 29.12709,
+        "longitude": 58.28427
+      },
+      "distancesKm": {
+        "toHealthCenter": 11.74,
+        "toEmergencyBase": 3.03,
+        "toDistrictCenter": 2.2
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "baghchamak",
-    "name": "باغچمک",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.13759,
-    "longitude": 58.27407,
-    "elevation": "۱۱۵۰ متر",
-    "population": "حدود ۱۵۱۸ نفر",
-    "category": "روستایی سرسبز با باغ‌ها و زمین‌های کشاورزی",
-    "bestSeason": "بهار و پاییز",
-    "description": "باغچمک از روستاهای حاصلخیز شهرستان بم است که باغداری و کشاورزی در آن رونق دارد.",
-    "attractions": [],
+    "village": "باغچمک",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۴۵۵",
-      "جمعیت زن": "۷۳۶",
-      "جمعیت مرد": "۷۸۲"
+    "summary": {
+      "householdCount": 455,
+      "villageCouncilBuilding": true,
+      "healthHouse": true,
+      "sportsFacility": true,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": true,
+      "hazards": true,
+      "crisisManagementFacilities": true
+    },
+    "details": {
+      "school": [
+        "هنرستان حضرت رسول"
+      ],
+      "religiousSites": [
+        "مسجد ابوالفضل (ع)",
+        "مسجد ولیعصر (عج)",
+        "حسینیه سیدالشهداء"
+      ],
+      "sportsFacility": [
+        "سالن چند منظوره"
+      ],
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 1518,
+        "female": 736,
+        "male": 782
+      },
+      "elevation": 1150,
+      "location": {
+        "latitude": 29.13759,
+        "longitude": 58.27407
+      },
+      "distancesKm": {
+        "toHealthCenter": 13.19,
+        "toEmergencyBase": 1.96,
+        "toDistrictCenter": 2.26
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "bidran-kohneh",
-    "name": "بیدران کهنه",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12751,
-    "longitude": 58.25943,
-    "elevation": "۱۱۶۳ متر",
-    "population": "حدود ۴۹۵ نفر",
-    "category": "روستایی تاریخی با فضای سنتی",
-    "bestSeason": "بهار و اوایل پاییز",
-    "description": "بیدران کهنه از روستاهای قدیمی منطقه است که با بافت سنتی و فعالیت‌های کشاورزی شناخته می‌شود.",
-    "attractions": [],
+    "village": "بیدران کهنه",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۵۴",
-      "جمعیت زن": "۲۳۵",
-      "جمعیت مرد": "۲۶۰"
+    "summary": {
+      "householdCount": 154,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": true,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": true,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": [
+        "دبستان مختلط 22 بهمن"
+      ],
+      "religiousSites": [
+        "مسجد امام حسین (ع)"
+      ],
+      "sportsFacility": [
+        "پارک"
+      ],
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 495,
+        "female": 235,
+        "male": 260
+      },
+      "elevation": 1163,
+      "location": {
+        "latitude": 29.12751,
+        "longitude": 58.25943
+      },
+      "distancesKm": {
+        "toHealthCenter": 13.91,
+        "toEmergencyBase": 0.93,
+        "toDistrictCenter": 0.96
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "bidran-no",
-    "name": "بیدران نو",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12848,
-    "longitude": 58.25301,
-    "elevation": "۱۱۶۳ متر",
-    "population": "حدود ۵۳۳ نفر",
-    "category": "روستایی کشاورزی با بافت نوساز",
-    "bestSeason": "بهار و پاییز",
-    "description": "بیدران نو در نزدیکی بیدران کهنه قرار دارد و از روستاهای فعال در زمینه کشاورزی و باغداری است.",
-    "attractions": [],
+    "village": "بیدران نو",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۵۱",
-      "جمعیت زن": "۲۴۹",
-      "جمعیت مرد": "۲۸۴"
+    "summary": {
+      "householdCount": 151,
+      "villageCouncilBuilding": false,
+      "healthHouse": true,
+      "sportsFacility": true,
+      "religiousSites": true,
+      "basijBase": false,
+      "school": true,
+      "hazards": true,
+      "crisisManagementFacilities": true
+    },
+    "details": {
+      "school": [
+        "مدرسه عشایری"
+      ],
+      "religiousSites": [
+        "مسجد امام حسین (ع)",
+        "حسنیه علی اصغر(ع) "
+      ],
+      "sportsFacility": [
+        "زمین چمن"
+      ],
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 533,
+        "female": 249,
+        "male": 284
+      },
+      "elevation": 1163,
+      "location": {
+        "latitude": 29.12848,
+        "longitude": 58.25301
+      },
+      "distancesKm": {
+        "toHealthCenter": 14.52,
+        "toEmergencyBase": 0.68,
+        "toDistrictCenter": 1.41
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "pakam",
-    "name": "پاکم",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12788,
-    "longitude": 58.26712,
-    "elevation": "۱۱۵۰ متر",
-    "population": "حدود ۸۰۲ نفر",
-    "category": "روستایی با باغ‌های خرما و فضای آرام",
-    "bestSeason": "بهار و پاییز",
-    "description": "پاکم از روستاهای شهرستان بم است که کشاورزی و نخلداری مهم‌ترین فعالیت اقتصادی ساکنان آن محسوب می‌شود.",
-    "attractions": [],
+    "village": "پاکم",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۲۲۸",
-      "جمعیت زن": "۳۸۲",
-      "جمعیت مرد": "۴۲۰"
+    "summary": {
+      "householdCount": 228,
+      "villageCouncilBuilding": true,
+      "healthHouse": true,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": false,
+      "school": true,
+      "hazards": false,
+      "crisisManagementFacilities": true
+    },
+    "details": {
+      "school": [
+        "دبستان دخترانه",
+        "دبستان پسرانه"
+      ],
+      "religiousSites": [
+        "مسجد صاحب الزمان (عج)",
+        "حسینیه ابوالفضل (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 802,
+        "female": 382,
+        "male": 420
+      },
+      "elevation": 1150,
+      "location": {
+        "latitude": 29.12788,
+        "longitude": 58.26712
+      },
+      "distancesKm": {
+        "toHealthCenter": 13.25,
+        "toEmergencyBase": 1.45,
+        "toDistrictCenter": 1.0
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "hamzeei",
-    "name": "حمزه‌ای",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12180,
-    "longitude": 58.30169,
-    "elevation": "۱۱۱۱ متر",
-    "population": "حدود ۲۳۸ نفر",
-    "category": "روستایی کوچک با طبیعت روستایی",
-    "bestSeason": "بهار و اوایل پاییز",
-    "description": "حمزه‌ای روستایی آرام در شهرستان بم است که محیطی مناسب برای زندگی روستایی و فعالیت‌های کشاورزی دارد.",
-    "attractions": [],
+    "village": "پاپده",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۹۱",
-      "جمعیت زن": "۱۱۵",
-      "جمعیت مرد": "۱۲۳"
+    "summary": {
+      "householdCount": 40,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 125,
+        "female": 61,
+        "male": 64
+      },
+      "elevation": 1221,
+      "location": {
+        "latitude": 29.12452,
+        "longitude": 58.20391
+      },
+      "distancesKm": {
+        "toHealthCenter": 18.84,
+        "toEmergencyBase": 5.01,
+        "toDistrictCenter": 5.8
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "khajeh-askar",
-    "name": "خواجه عسکر",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12008,
-    "longitude": 58.26194,
-    "elevation": "۱۱۵۸ متر",
-    "population": "حدود ۲۰۴۲ نفر",
-    "category": "روستایی پرجمعیت با اقتصاد کشاورزی",
-    "bestSeason": "بهار و پاییز",
-    "description": "خواجه عسکر از روستاهای مهم شهرستان بم است که به دلیل جمعیت مناسب و فعالیت‌های کشاورزی شناخته می‌شود.",
-    "attractions": [],
+    "village": "حمزه ای",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۶۳۰",
-      "جمعیت زن": "۱۰۰۱",
-      "جمعیت مرد": "۱۰۴۱"
+    "summary": {
+      "householdCount": 91,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد امیرالمومنین (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 238,
+        "female": 115,
+        "male": 123
+      },
+      "elevation": 1111,
+      "location": {
+        "latitude": 29.1218,
+        "longitude": 58.30169
+      },
+      "distancesKm": {
+        "toHealthCenter": 9.98,
+        "toEmergencyBase": 4.82,
+        "toDistrictCenter": 3.73
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "khajeh-nezam",
-    "name": "خواجه نظام",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.13342,
-    "longitude": 58.24203,
-    "elevation": "۱۱۸۴ متر",
-    "population": "حدود ۴۱۹ نفر",
-    "category": "روستایی آرام با چشم‌انداز طبیعی",
-    "bestSeason": "بهار و اوایل پاییز",
-    "description": "خواجه نظام از روستاهای شهرستان بم است که با فضای روستایی، باغ‌ها و زمین‌های کشاورزی شناخته می‌شود.",
-    "attractions": [],
+    "village": "خواجه عسکر",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۳۶",
-      "جمعیت زن": "۲۰۱",
-      "جمعیت مرد": "۲۱۸"
+    "summary": {
+      "householdCount": 630,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد جامع امام حسن مجتبی (ع)",
+        "حسینیه امام زاده خواجه عسکر "
+      ],
+      "sportsFacility": [
+        "چمن",
+        "سالن"
+      ],
+      "hazards": null,
+      "population": {
+        "total": 2042,
+        "female": 1001,
+        "male": 1041
+      },
+      "elevation": 1158,
+      "location": {
+        "latitude": 29.12008,
+        "longitude": 58.26194
+      },
+      "distancesKm": {
+        "toHealthCenter": 13.36,
+        "toEmergencyBase": 1.77,
+        "toDistrictCenter": 0.15
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "darbagh",
-    "name": "درباغ",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12435,
-    "longitude": 58.27128,
-    "elevation": "۱۱۴۲ متر",
-    "population": "حدود ۳۲۱ نفر",
-    "category": "روستایی کشاورزی با محیطی دلنشین",
-    "bestSeason": "بهار و پاییز",
-    "description": "دریجان از روستاهای شهرستان بم است که با باغ‌ها، نخلستان‌ها و محیط آرام روستایی شناخته می‌شود.",
-    "attractions": [],
+    "village": "خواجه نظام",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۱۶",
-      "جمعیت زن": "۱۵۷",
-      "جمعیت مرد": "۱۶۴"
+    "summary": {
+      "householdCount": 136,
+      "villageCouncilBuilding": true,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": true,
+      "hazards": true,
+      "crisisManagementFacilities": true
+    },
+    "details": {
+      "school": [
+        "دبستان مختلط"
+      ],
+      "religiousSites": [
+        "حسینیه ثارالله ",
+        "مسجد ابوالفضل (ع) در حال ساخت "
+      ],
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 419,
+        "female": 201,
+        "male": 218
+      },
+      "elevation": 1184,
+      "location": {
+        "latitude": 29.13342,
+        "longitude": 58.24203
+      },
+      "distancesKm": {
+        "toHealthCenter": 15.72,
+        "toEmergencyBase": 1.19,
+        "toDistrictCenter": 2.58
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "sarjangal",
-    "name": "سرجنگل",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12081,
-    "longitude": 58.26321,
-    "elevation": "۱۱۵۸ متر",
-    "population": "حدود ۲۰۸ نفر",
-    "category": "روستایی کشاورزی با محیطی دلنشین",
-    "bestSeason": "بهار و پاییز",
-    "description": "سرجنگل از روستاهای شهرستان بم است که با باغ‌ها و زمین‌های کشاورزی، محیطی آرام و دلنشین دارد.",
-    "attractions": [],
+    "village": "درباغ",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۷۳",
-      "جمعیت زن": "۹۲",
-      "جمعیت مرد": "۱۱۶"
+    "summary": {
+      "householdCount": 116,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": true,
+      "hazards": false,
+      "crisisManagementFacilities": true
+    },
+    "details": {
+      "school": [
+        "دبستان مختلط عمار"
+      ],
+      "religiousSites": [
+        "مسجد امام حسین (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 321,
+        "female": 157,
+        "male": 164
+      },
+      "elevation": 1142,
+      "location": {
+        "latitude": 29.12435,
+        "longitude": 58.27128
+      },
+      "distancesKm": {
+        "toHealthCenter": 12.72,
+        "toEmergencyBase": 2.01,
+        "toDistrictCenter": 0.94
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "ghaleh-askar",
-    "name": "قلعه عسکر",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12435,
-    "longitude": 58.27128,
-    "elevation": "۱۱۴۲ متر",
-    "population": "حدود ۴۰۴ نفر",
-    "category": "روستایی کشاورزی با محیطی دلنشین",
-    "bestSeason": "بهار و پاییز",
-    "description": "قلعه عسکر از روستاهای شهرستان بم است که پیشینه روستایی و فعالیت‌های کشاورزی در آن اهمیت دارد.",
-    "attractions": [],
+    "village": "سرجنگل",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۳۹",
-      "جمعیت زن": "۲۰۱",
-      "جمعیت مرد": "۲۰۳"
+    "summary": {
+      "householdCount": 73,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 208,
+        "female": 92,
+        "male": 116
+      },
+      "elevation": 1158,
+      "location": {
+        "latitude": 29.12081,
+        "longitude": 58.26321
+      },
+      "distancesKm": {
+        "toHealthCenter": 13.27,
+        "toEmergencyBase": 1.76,
+        "toDistrictCenter": 0.14
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "gavmordeh",
-    "name": "گاومرده",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12874,
-    "longitude": 58.30568,
-    "elevation": "۱۱۴۲ متر",
-    "population": "حدود ۱۱۹ نفر",
-    "category": "روستایی کشاورزی با محیطی دلنشین",
-    "bestSeason": "بهار و پاییز",
-    "description": "گاومرده روستایی کوچک در شهرستان بم است که ساکنان آن عمدتاً به کشاورزی و باغداری مشغول هستند.",
-    "attractions": [],
+    "village": "قلعه عسکر",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۳۶",
-      "جمعیت زن": "۵۲",
-      "جمعیت مرد": "۶۷"
+    "summary": {
+      "householdCount": 139,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 404,
+        "female": 201,
+        "male": 203
+      },
+      "elevation": 1142,
+      "location": {
+        "latitude": 29.12435,
+        "longitude": 58.27128
+      },
+      "distancesKm": {
+        "toHealthCenter": 12.72,
+        "toEmergencyBase": 2.01,
+        "toDistrictCenter": 0.94
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "gazdar",
-    "name": "گزدر",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12848,
-    "longitude": 58.25301,
-    "elevation": "۱۱۵۰ متر",
-    "population": "حدود ۲۶۵ نفر",
-    "category": "روستایی کشاورزی با محیطی دلنشین",
-    "bestSeason": "بهار و پاییز",
-    "description": "گزدر از روستاهای شهرستان بم است که با باغ‌ها و فضای آرام روستایی شناخته می‌شود.",
-    "attractions": [],
+    "village": "گاومرده",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۸۰",
-      "جمعیت زن": "۱۳۰",
-      "جمعیت مرد": "۱۳۵"
+    "summary": {
+      "householdCount": 36,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد امام رضا (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 119,
+        "female": 52,
+        "male": 67
+      },
+      "elevation": 1142,
+      "location": {
+        "latitude": 29.12874,
+        "longitude": 58.30568
+      },
+      "distancesKm": {
+        "toHealthCenter": 10.09,
+        "toEmergencyBase": 5.04,
+        "toDistrictCenter": 4.24
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "hararan",
-    "name": "هراران",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12848,
-    "longitude": 58.25301,
-    "elevation": "۱۱۵۰ متر",
-    "population": "حدود ۴۹۶ نفر",
-    "category": "روستایی کشاورزی با محیطی دلنشین",
-    "bestSeason": "بهار و پاییز",
-    "description": "هراران از روستاهای شهرستان بم است که اقتصاد آن بر پایه کشاورزی و باغداری شکل گرفته است.",
-    "attractions": [],
+    "village": "گزدر",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۴۸",
-      "جمعیت زن": "۲۲۷",
-      "جمعیت مرد": "۲۶۹"
+    "summary": {
+      "householdCount": 80,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": true,
+      "hazards": true,
+      "crisisManagementFacilities": true
+    },
+    "details": {
+      "school": [
+        "مدرسه ابتدایی مختلط"
+      ],
+      "religiousSites": [
+        "مسجد ابوالفضل (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 265,
+        "female": 130,
+        "male": 135
+      },
+      "elevation": 1150,
+      "location": {
+        "latitude": 29.12848,
+        "longitude": 58.25301
+      },
+      "distancesKm": {
+        "toHealthCenter": 14.52,
+        "toEmergencyBase": 0.68,
+        "toDistrictCenter": 1.41
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "abgarm",
-    "name": "آبگرم",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.88985,
-    "longitude": 58.15628,
-    "elevation": "۲۰۶۰ متر",
-    "population": "حدود ۴۴۲ نفر",
-    "category": "روستایی کوهستانی با آب‌وهوای خنک",
-    "bestSeason": "بهار و تابستان",
-    "description": "آبگرم در منطقه‌ای مرتفع قرار دارد و به دلیل آب‌وهوای خنک و طبیعت کوهستانی، مقصدی مناسب در فصول گرم سال است.",
-    "attractions": [],
+    "village": "هرارون",
+    "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۳۶",
-      "جمعیت زن": "۲۲۹",
-      "جمعیت مرد": "۲۱۳"
+    "summary": {
+      "householdCount": 148,
+      "villageCouncilBuilding": false,
+      "healthHouse": true,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": true
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد صاحب الزمان (عج)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 496,
+        "female": 227,
+        "male": 269
+      },
+      "elevation": 1150,
+      "location": {
+        "latitude": 29.12848,
+        "longitude": 58.25301
+      },
+      "distancesKm": {
+        "toHealthCenter": 14.52,
+        "toEmergencyBase": 0.68,
+        "toDistrictCenter": 1.41
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "aduri",
-    "name": "آدوری",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.97593,
-    "longitude": 58.12810,
-    "elevation": "۱۶۵۰ متر",
-    "population": "حدود ۳۷۹ نفر",
-    "category": "روستایی کوهپایه‌ای با طبیعت بکر",
-    "bestSeason": "بهار و تابستان",
-    "description": "آدوری از روستاهای کوهپایه‌ای شهرستان بم است که طبیعتی آرام و چشم‌اندازهای زیبایی دارد.",
-    "attractions": [],
+    "village": "اناران",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۳۴",
-      "جمعیت زن": "۱۸۹",
-      "جمعیت مرد": "۱۹۰"
+    "summary": {
+      "householdCount": 55,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 130,
+        "female": 65,
+        "male": 65
+      },
+      "elevation": 1142,
+      "location": {
+        "latitude": 29.12435,
+        "longitude": 58.27128
+      },
+      "distancesKm": {
+        "toHealthCenter": 12.72,
+        "toEmergencyBase": 2.01,
+        "toDistrictCenter": 0.94
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "anaran",
-    "name": "اناران",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12435,
-    "longitude": 58.27128,
-    "elevation": "۱۱۴۲ متر",
-    "population": "حدود ۱۳۰ نفر",
-    "category": "روستایی آرام با باغ‌های کشاورزی",
-    "bestSeason": "بهار و پاییز",
-    "description": "اناران از روستاهای کوچک شهرستان بم است که محیطی آرام و مناسب برای فعالیت‌های کشاورزی دارد.",
-    "attractions": [],
+    "village": "آبگرم",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۵۵",
-      "جمعیت زن": "۶۵",
-      "جمعیت مرد": "۶۵"
+    "summary": {
+      "householdCount": 136,
+      "villageCouncilBuilding": true,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": true,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": [
+        "مدرسه ابتدایی مختلط"
+      ],
+      "religiousSites": [
+        "مسجد ولیعصر (عج)"
+      ],
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 442,
+        "female": 229,
+        "male": 213
+      },
+      "elevation": 2060,
+      "location": {
+        "latitude": 28.88985,
+        "longitude": 58.15628
+      },
+      "distancesKm": {
+        "toHealthCenter": 30.61,
+        "toEmergencyBase": 28.83,
+        "toDistrictCenter": 27.58
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "bagh-tak",
-    "name": "باغ تک",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.85878,
-    "longitude": 58.20394,
-    "elevation": "۱۸۸۵ متر",
-    "population": "حدود ۲۶۳ نفر",
-    "category": "روستایی کوهستانی با باغ‌های سرسبز",
-    "bestSeason": "بهار و تابستان",
-    "description": "باغ تک در ارتفاعات شهرستان بم قرار گرفته و با طبیعت کوهستانی و باغ‌های خود شناخته می‌شود.",
-    "attractions": [],
+    "village": "آدوری",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۸۷",
-      "جمعیت زن": "۱۲۶",
-      "جمعیت مرد": "۱۳۷"
+    "summary": {
+      "householdCount": 134,
+      "villageCouncilBuilding": true,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 379,
+        "female": 189,
+        "male": 190
+      },
+      "elevation": 1650,
+      "location": {
+        "latitude": 28.97593,
+        "longitude": 58.1281
+      },
+      "distancesKm": {
+        "toHealthCenter": 27.68,
+        "toEmergencyBase": 21.48,
+        "toDistrictCenter": 20.69
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "papdeh",
-    "name": "پاپده",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.12452,
-    "longitude": 58.20391,
-    "elevation": "۱۲۲۱ متر",
-    "population": "حدود ۱۲۵ نفر",
-    "category": "روستایی کشاورزی با فضای سنتی",
-    "bestSeason": "بهار و پاییز",
-    "description": "پاپده از روستاهای شهرستان بم است که زندگی در آن بر پایه کشاورزی و باغداری جریان دارد.",
-    "attractions": [],
+    "village": "باغ تک",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۴۰",
-      "جمعیت زن": "۶۱",
-      "جمعیت مرد": "۶۴"
+    "summary": {
+      "householdCount": 87,
+      "villageCouncilBuilding": false,
+      "healthHouse": true,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": true,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": [
+        "مدرسه ابتدایی مختلط"
+      ],
+      "religiousSites": [
+        "مسجچد ابوالفضل (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 263,
+        "female": 126,
+        "male": 137
+      },
+      "elevation": 1885,
+      "location": {
+        "latitude": 28.85878,
+        "longitude": 58.20394
+      },
+      "distancesKm": {
+        "toHealthCenter": 30.04,
+        "toEmergencyBase": 31.05,
+        "toDistrictCenter": 29.57
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "pootar",
-    "name": "پوطار",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.00337,
-    "longitude": 58.05266,
-    "elevation": "۱۹۲۲ متر",
-    "population": "حدود ۱۵۰ نفر",
-    "category": "روستایی کوهستانی با آب‌وهوای مطبوع",
-    "bestSeason": "بهار و تابستان",
-    "description": "پوطار در منطقه‌ای مرتفع واقع شده و به دلیل طبیعت کوهستانی و آب‌وهوای مناسب شناخته می‌شود.",
-    "attractions": [],
+    "village": "پوطار",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۵۶",
-      "جمعیت زن": "۶۶",
-      "جمعیت مرد": "۸۴"
+    "summary": {
+      "householdCount": 56,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": true,
+      "religiousSites": true,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد امام حسن مجتبی (ع) در حال ساخت ",
+        "حسینیه امام حسن مجتبی (ع) "
+      ],
+      "sportsFacility": null,
+      "hazards": [
+        "سیل",
+        "آتش سوزی"
+      ],
+      "population": {
+        "total": 150,
+        "female": 66,
+        "male": 84
+      },
+      "elevation": 1922,
+      "location": {
+        "latitude": 29.00337,
+        "longitude": 58.05266
+      },
+      "distancesKm": {
+        "toHealthCenter": 33.68,
+        "toEmergencyBase": 24.42,
+        "toDistrictCenter": 24.21
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "tavakolabad",
-    "name": "توکل آباد",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.01096,
-    "longitude": 58.04858,
-    "elevation": "۱۹۰۰ متر",
-    "population": "حدود ۱۶۰ نفر",
-    "category": "روستایی کوهپایه‌ای با طبیعت دلنشین",
-    "bestSeason": "بهار و تابستان",
-    "description": "توکل آباد از روستاهای مرتفع شهرستان بم است که کشاورزی و باغداری در آن رواج دارد.",
-    "attractions": [],
+    "village": "توکل آباد",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۵۰",
-      "جمعیت زن": "۷۷",
-      "جمعیت مرد": "۸۳"
+    "summary": {
+      "householdCount": 50,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد شهید اسحاق دریجانی ",
+        "جسینیه  اباعبدالله الحسین (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 160,
+        "female": 77,
+        "male": 83
+      },
+      "elevation": 1900,
+      "location": {
+        "latitude": 29.01096,
+        "longitude": 58.04858
+      },
+      "distancesKm": {
+        "toHealthCenter": 33.88,
+        "toEmergencyBase": 24.26,
+        "toDistrictCenter": 24.11
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "titubar",
-    "name": "تیتوبر",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.86627,
-    "longitude": 58.17031,
-    "elevation": "۲۲۴۰ متر",
-    "population": "حدود ۱۸۳ نفر",
-    "category": "روستایی مرتفع با طبیعت کوهستانی",
-    "bestSeason": "بهار و تابستان",
-    "description": "تیتوبر از مرتفع‌ترین روستاهای شهرستان بم است و آب‌وهوای خنک و چشم‌اندازهای طبیعی زیبایی دارد.",
-    "attractions": [],
+    "village": "تیتوپر",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۵۶",
-      "جمعیت زن": "۹۷",
-      "جمعیت مرد": "۸۶"
+    "summary": {
+      "householdCount": 56,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": true,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 183,
+        "female": 97,
+        "male": 86
+      },
+      "elevation": 2240,
+      "location": {
+        "latitude": 28.86627,
+        "longitude": 58.17031
+      },
+      "distancesKm": {
+        "toHealthCenter": 31.49,
+        "toEmergencyBase": 30.93,
+        "toDistrictCenter": 29.58
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "jazin",
-    "name": "جزین",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۴۳۶ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "جزین از روستاهای مرتفع شهرستان بم است که طبیعت زیبا و باغ‌های آن جلوه‌ای خاص به منطقه بخشیده است.",
-    "attractions": [],
+    "village": "جزین",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۴۰",
-      "جمعیت زن": "۲۱۸",
-      "جمعیت مرد": "۲۱۸"
+    "summary": {
+      "householdCount": 140,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد ولیعصر (عج)",
+        "حسینیه امام حسین (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 436,
+        "female": 218,
+        "male": 218
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "cheshmeha-bala",
-    "name": "چشمه‌هابالا",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۸۹ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "چشمه‌هابالا از روستاهای کوهستانی شهرستان بم است که با آب‌وهوای مطبوع، باغ‌های میوه و طبیعت آرام شناخته می‌شود.",
-    "attractions": [],
+    "village": "چشمه ها بالا",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۳۷",
-      "جمعیت زن": "۴۳",
-      "جمعیت مرد": "۴۶"
+    "summary": {
+      "householdCount": 37,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 89,
+        "female": 43,
+        "male": 46
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "hamid",
-    "name": "حمید",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.989333,
-    "longitude": 58.027915,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۸۳ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "روستای حمید در منطقه‌ای کوهستانی قرار دارد و کشاورزی و باغداری از مهم‌ترین فعالیت‌های ساکنان آن است.",
-    "attractions": [],
+    "village": "داردین",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۴۳",
-      "جمعیت زن": "۶۱",
-      "جمعیت مرد": "۲۱"
+    "summary": {
+      "householdCount": 81,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد ولیعصر (عج)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 274,
+        "female": 130,
+        "male": 144
+      },
+      "elevation": 1961,
+      "location": {
+        "latitude": 29.06051,
+        "longitude": 57.96839
+      },
+      "distancesKm": {
+        "toHealthCenter": 40.94,
+        "toEmergencyBase": 28.97,
+        "toDistrictCenter": 29.4
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "dardin",
-    "name": "داردین(دارزین ۱)",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.06051,
-    "longitude": 57.96839,
-    "elevation": "۱۹۶۱ متر",
-    "population": "حدود ۲۷۴ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "داردین یا دارزین ۱ از روستاهای مرتفع شهرستان بم است که طبیعت کوهستانی و باغ‌های میوه آن جلوه‌ای زیبا به منطقه داده است.",
-    "attractions": [],
+    "village": "دارزین",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۸۱",
-      "جمعیت زن": "۱۳۰",
-      "جمعیت مرد": "۱۴۴"
+    "summary": {
+      "householdCount": 151,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد امام حسین (ع)",
+        "مسجد ابوالفضل (ع) درحال ساخت "
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 415,
+        "female": 198,
+        "male": 217
+      },
+      "elevation": 1330,
+      "location": {
+        "latitude": 29.18189,
+        "longitude": 58.12211
+      },
+      "distancesKm": {
+        "toHealthCenter": 28.55,
+        "toEmergencyBase": 13.87,
+        "toDistrictCenter": 15.37
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "darzin",
-    "name": "دارزین",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.18189,
-    "longitude": 58.12211,
-    "elevation": "۱۳۳۰ متر",
-    "population": "حدود ۴۱۵ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "دارزین از روستاهای شناخته‌شده شهرستان بم است که باغداری و کشاورزی نقش مهمی در اقتصاد آن دارند.",
-    "attractions": [],
+    "village": "دربر",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۵۱",
-      "جمعیت زن": "۱۹۸",
-      "جمعیت مرد": "۲۱۷"
+    "summary": {
+      "householdCount": 91,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد رسول اکرم (ص)",
+        "حسینیه امام حسین (ع) در حال ساخت "
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 267,
+        "female": 139,
+        "male": 128
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.03736,
+        "longitude": 58.00463
+      },
+      "distancesKm": {
+        "toHealthCenter": 37.62,
+        "toEmergencyBase": 26.55,
+        "toDistrictCenter": 26.75
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "darbar",
-    "name": "دربر",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.03736,
-    "longitude": 58.00463,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۲۶۷ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "دربر روستایی کوهستانی با طبیعتی آرام است که باغ‌های میوه و آب‌وهوای مطبوع از ویژگی‌های آن به شمار می‌رود.",
-    "attractions": [],
+    "village": "درزرب",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۹۱",
-      "جمعیت زن": "۱۳۹",
-      "جمعیت مرد": "۱۲۸"
+    "summary": {
+      "householdCount": 57,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 191,
+        "female": 96,
+        "male": 95
+      },
+      "elevation": 2013,
+      "location": {
+        "latitude": 28.83453,
+        "longitude": 58.214445
+      },
+      "distancesKm": {
+        "toHealthCenter": 31.68,
+        "toEmergencyBase": 33.58,
+        "toDistrictCenter": 32.05
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "darzarab",
-    "name": "درزرب",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.834530,
-    "longitude": 58.214445,
-    "elevation": "۲۰۱۳ متر",
-    "population": "حدود ۱۹۱ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "درزرب در ارتفاعات شهرستان بم قرار دارد و به دلیل آب‌وهوای خنک و طبیعت کوهستانی شناخته می‌شود.",
-    "attractions": [],
+    "village": "دریجان",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۵۷",
-      "جمعیت زن": "۹۶",
-      "جمعیت مرد": "۹۵"
+    "summary": {
+      "householdCount": 283,
+      "villageCouncilBuilding": false,
+      "healthHouse": true,
+      "sportsFacility": true,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد ولیعصر (عج)",
+        "حسینیه فاطمه الزهر (س)",
+        "تکیه حضرت ابوالفضل  العباس (ع)",
+        "فاطمیه دریجان "
+      ],
+      "sportsFacility": [
+        "چمن"
+      ],
+      "hazards": [
+        "سیل",
+        "آتش سوزی"
+      ],
+      "population": {
+        "total": 787,
+        "female": 385,
+        "male": 402
+      },
+      "elevation": 1960,
+      "location": {
+        "latitude": 29.02408,
+        "longitude": 58.01351
+      },
+      "distancesKm": {
+        "toHealthCenter": 36.96,
+        "toEmergencyBase": 26.42,
+        "toDistrictCenter": 26.5
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "darijan",
-    "name": "دریجان",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.02408,
-    "longitude": 58.01351,
-    "elevation": "۱۹۶۰ متر",
-    "population": "حدود ۷۸۷ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "دریجان از روستاهای مرتفع شهرستان بم است که با باغ‌های میوه، طبیعت زیبا و آب‌وهوای مطبوع شناخته می‌شود.",
-    "attractions": [],
+    "village": "دسک",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۲۸۳",
-      "جمعیت زن": "۳۸۵",
-      "جمعیت مرد": "۴۰۲"
+    "summary": {
+      "householdCount": 108,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد ابوالفضل ا لعباس (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 324,
+        "female": 162,
+        "male": 162
+      },
+      "elevation": 1636,
+      "location": {
+        "latitude": 28.98214,
+        "longitude": 58.12102
+      },
+      "distancesKm": {
+        "toHealthCenter": 28.05,
+        "toEmergencyBase": 21.33,
+        "toDistrictCenter": 20.61
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "desk",
-    "name": "دسک",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.98214,
-    "longitude": 58.12102,
-    "elevation": "۱۶۳۶ متر",
-    "population": "حدود ۳۲۴ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "دسک از روستاهای کوهستانی شهرستان بم است که به دلیل آب‌وهوای مطبوع، باغداری و طبیعت سرسبز شناخته می‌شود.",
-    "attractions": [],
+    "village": "دهنه سرآسیاب",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۰۸",
-      "جمعیت زن": "۱۶۲",
-      "جمعیت مرد": "۱۶۲"
+    "summary": {
+      "householdCount": 69,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": [
+        "سیل",
+        "آتش سوزی"
+      ],
+      "population": {
+        "total": 196,
+        "female": 102,
+        "male": 94
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "dehneh-sarasiab",
-    "name": "دهنه سرآسیاب",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۱۹۶ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "دهنه سرآسیاب از روستاهای کوهستانی بم است که با طبیعت آرام و باغ‌های میوه، محیطی مناسب برای گردش در فصل‌های گرم سال دارد.",
-    "attractions": [],
+    "village": "زینقوئیه",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۶۹",
-      "جمعیت زن": "۱۰۲",
-      "جمعیت مرد": "۹۴"
+    "summary": {
+      "householdCount": 71,
+      "villageCouncilBuilding": true,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": [
+        "آتش سوزی",
+        "سیل"
+      ],
+      "population": {
+        "total": 165,
+        "female": 76,
+        "male": 89
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "zoomin",
-    "name": "زومین",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۲۰۰۰ متر",
-    "population": "حدود ۱۵۳ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "زومین در منطقه‌ای مرتفع قرار گرفته و به دلیل آب‌وهوای خنک و طبیعت کوهستانی، از روستاهای خوش‌آب‌وهوا محسوب می‌شود.",
-    "attractions": [],
+    "village": "زومین",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۴۹",
-      "جمعیت زن": "۷۳",
-      "جمعیت مرد": "۸۰"
+    "summary": {
+      "householdCount": 49,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 153,
+        "female": 73,
+        "male": 80
+      },
+      "elevation": 2000,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "zeynaghouyeh",
-    "name": "زینقویه",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۱۶۵ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "زینقویه از روستاهای کوهستانی شهرستان بم است که باغداری و کشاورزی مهم‌ترین فعالیت اقتصادی ساکنان آن به شمار می‌رود.",
-    "attractions": [],
+    "village": "سابات",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۷۱",
-      "جمعیت زن": "۷۶",
-      "جمعیت مرد": "۸۹"
+    "summary": {
+      "householdCount": 40,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 96,
+        "female": 48,
+        "male": 48
+      },
+      "elevation": 2000,
+      "location": {
+        "latitude": 29.05509,
+        "longitude": 57.97656
+      },
+      "distancesKm": {
+        "toHealthCenter": 40.18,
+        "toEmergencyBase": 28.39,
+        "toDistrictCenter": 28.78
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "savat",
-    "name": "ساوات",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05509,
-    "longitude": 57.97656,
-    "elevation": "۲۰۰۰ متر",
-    "population": "حدود ۹۶ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "ساوات روستایی کوچک در ارتفاعات شهرستان بم است که طبیعت بکر و آب‌وهوای خنک از ویژگی‌های آن محسوب می‌شود.",
-    "attractions": [],
+    "village": "طاغوک",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۴۰",
-      "جمعیت زن": "۴۸",
-      "جمعیت مرد": "۴۸"
+    "summary": {
+      "householdCount": 45,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 112,
+        "female": 51,
+        "male": 61
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "taghook",
-    "name": "طاغوک",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۱۱۲ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "طاغوک از روستاهای مرتفع شهرستان بم است که با باغ‌های میوه و چشم‌اندازهای طبیعی شناخته می‌شود.",
-    "attractions": [],
+    "village": "گزتین",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۴۵",
-      "جمعیت زن": "۵۱",
-      "جمعیت مرد": "۶۱"
+    "summary": {
+      "householdCount": 37,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد 14 معصوم (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 121,
+        "female": 56,
+        "male": 65
+      },
+      "elevation": 1693,
+      "location": {
+        "latitude": 28.95593,
+        "longitude": 58.10748
+      },
+      "distancesKm": {
+        "toHealthCenter": 30.43,
+        "toEmergencyBase": 24.45,
+        "toDistrictCenter": 23.68
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "garow",
-    "name": "گرو",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۴۶ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "گرو از روستاهای کم‌جمعیت شهرستان بم است که در محیطی کوهستانی و آرام قرار گرفته است.",
-    "attractions": [],
+    "village": "کلوپده",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۲۰",
-      "جمعیت زن": "۲۱",
-      "جمعیت مرد": "۲۵"
+    "summary": {
+      "householdCount": 102,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 227,
+        "female": 140,
+        "male": 137
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "gaztin",
-    "name": "گزتین",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.95593,
-    "longitude": 58.10748,
-    "elevation": "۱۶۹۳ متر",
-    "population": "حدود ۱۲۱ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "گزتین روستایی کوهستانی در شهرستان بم است که باغداری و طبیعت دلنشین از ویژگی‌های آن به شمار می‌رود.",
-    "attractions": [],
+    "village": "گزدان",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۳۷",
-      "جمعیت زن": "۵۶",
-      "جمعیت مرد": "۶۵"
+    "summary": {
+      "householdCount": 89,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد 14 معصوم (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 225,
+        "female": 104,
+        "male": 121
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "gazdan",
-    "name": "گزدان",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۲۲۵ نفر",
-    "category": "روستایی کوهستانی با باغ‌های میوه",
-    "bestSeason": "بهار و تابستان",
-    "description": "گزدان از روستاهای شهرستان بم است که با طبیعت کوهستانی، باغ‌های میوه و آب‌وهوای مطبوع شناخته می‌شود.",
-    "attractions": [],
+    "village": "گودپده",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۸۹",
-      "جمعیت زن": "۱۰۴",
-      "جمعیت مرد": "۱۲۱"
+    "summary": {
+      "householdCount": 95,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 242,
+        "female": 125,
+        "male": 117
+      },
+      "elevation": 1882,
+      "location": {
+        "latitude": 28.87037,
+        "longitude": 58.1939
+      },
+      "distancesKm": {
+        "toHealthCenter": 29.64,
+        "toEmergencyBase": 29.95,
+        "toDistrictCenter": 28.52
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "galupedeh",
-    "name": "گلوپده",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۲۲۷ نفر",
-    "category": "کوهستانی و ییلاقی",
-    "bestSeason": "بهار و تابستان",
-    "description": "گلوپده، روستایی کوهستانی و سرسبز در بخش مرکزی شهرستان بم است که با باغ‌های میوه و آب‌وهوای خنک خود، مقصدی دلپذیر برای گردشگران به شمار می‌رود.",
-    "attractions": [],
+    "village": "گورو",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۱۰۲",
-      "جمعیت زن": "۱۴۰",
-      "جمعیت مرد": "۱۳۷"
+    "summary": {
+      "householdCount": 85,
+      "villageCouncilBuilding": true,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": true
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 207,
+        "female": 100,
+        "male": 107
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "gudpadeh",
-    "name": "گودپده",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.87037,
-    "longitude": 58.19390,
-    "elevation": "۱۸۸۲ متر",
-    "population": "حدود ۲۴۲ نفر",
-    "category": "کوهستانی و ییلاقی",
-    "bestSeason": "بهار و تابستان",
-    "description": "گودپده از روستاهای خوش‌آب‌وهوای شهرستان بم است که با طبیعت بکر و باغ‌های پربار، فضایی آرام برای علاقه‌مندان به گردشگری روستایی فراهم کرده است.",
-    "attractions": [],
+    "village": "گوک",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۹۵",
-      "جمعیت زن": "۱۲۵",
-      "جمعیت مرد": "۱۱۷"
+    "summary": {
+      "householdCount": 66,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "population": {
+        "total": 182,
+        "female": 93,
+        "male": 89
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.0512,
+        "longitude": 57.98853
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "guru",
-    "name": "گورو",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۲۰۷ نفر",
-    "category": "کوهستانی و ییلاقی",
-    "bestSeason": "بهار و تابستان",
-    "description": "گورو، روستایی ییلاقی در نزدیکی شهر بم است که به دلیل موقعیت کوهستانی و باغ‌های میوه‌اش، مقصدی محبوب برای فرار از گرمای تابستان به شمار می‌رود.",
-    "attractions": [],
+    "village": "مغوئیه",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۸۵",
-      "جمعیت زن": "۱۰۰",
-      "جمعیت مرد": "۱۰۷"
+    "summary": {
+      "householdCount": 81,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": [
+        "مسجد 14 معصوم (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 231,
+        "female": 104,
+        "male": 127
+      },
+      "elevation": 1650,
+      "location": {
+        "latitude": 28.958209,
+        "longitude": 58.11224
+      },
+      "distancesKm": {
+        "toHealthCenter": 29.9,
+        "toEmergencyBase": 23.98,
+        "toDistrictCenter": 23.19
+      },
+       
+      "description": null
     }
   },
   {
-    "id": "gook",
-    "name": "گوک",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.05120,
-    "longitude": 57.98853,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۱۸۲ نفر",
-    "category": "کوهستانی و ییلاقی",
-    "bestSeason": "بهار و تابستان",
-    "description": "گوک از روستاهای کوهپایه‌ای بم با چشم‌اندازهای زیبا و هوای مطبوع است که برای علاقه‌مندان به طبیعت‌گردی و بازدید از باغ‌های سنتی جذابیت دارد.",
-    "attractions": [],
+    "village": "مهرآباد",
+    "district": "دریجان",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۶۶",
-      "جمعیت زن": "۹۳",
-      "جمعیت مرد": "۸۹"
-    }
-  },
-  {
-    "id": "maghuiyeh",
-    "name": "مغوئیه",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 28.958209,
-    "longitude": 58.112240,
-    "elevation": "۱۶۵۰ متر",
-    "population": "حدود ۲۳۱ نفر",
-    "category": "کوهستانی و ییلاقی",
-    "bestSeason": "بهار و تابستان",
-    "description": "مغوئیه روستایی کوهستانی در شرق بم است که با باغ‌های سرسبز و چشمه‌های جاری، فضایی دلنشین برای گردشگران و طبیعت‌دوستان پدید آورده است.",
-    "attractions": [],
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۸۱",
-      "جمعیت زن": "۱۰۴",
-      "جمعیت مرد": "۱۲۷"
-    }
-  },
-  {
-    "id": "mehrabad",
-    "name": "مهرآباد",
-    "province": "کرمان",
-    "county": "بم",
-    "latitude": 29.001401,
-    "longitude": 58.084707,
-    "elevation": "۱۹۱۲ متر",
-    "population": "حدود ۱۱۴ نفر",
-    "category": "کوهستانی و ییلاقی",
-    "bestSeason": "بهار و تابستان",
-    "description": "مهرآباد روستایی کوچک و خوش‌آب‌وهوا در حومه بم است که با باغ‌های میوه و منظره‌های کوهستانی، مکانی ایده‌آل برای یک روز آرام در دل طبیعت به شمار می‌رود.",
-    "attractions": [],
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-    "hazards": "بدون مخاطره خاص",
-    "dynamicProperties": {
-      "خانوار": "۳۳",
-      "جمعیت زن": "۵۸",
-      "جمعیت مرد": "۵۶"
+    "summary": {
+      "householdCount": 33,
+      "villageCouncilBuilding": true,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": true,
+      "crisisManagementFacilities": false
+    },
+    "details": {
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "population": {
+        "total": 114,
+        "female": 58,
+        "male": 56
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 29.001401,
+        "longitude": 58.084707
+      },
+      "distancesKm": {
+        "toHealthCenter": 30.72,
+        "toEmergencyBase": 22.15,
+        "toDistrictCenter": 21.78
+      },
+       
+      "description": null
     }
   }
 ]
