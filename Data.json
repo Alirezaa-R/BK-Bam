@@ -58,6 +58,9 @@
       "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": null,
       "religiousSites": [
         "مسجد سقای تشنگان ابالفضل العباس شهرک امام علی (ع)",
@@ -99,6 +102,9 @@
       "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": [
         "هنرستان حضرت رسول"
       ],
@@ -193,6 +199,9 @@
       "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": [
         "مدرسه عشایری"
       ],
@@ -213,8 +222,8 @@
       },
       "elevation": 1163,
       "location": {
-        "latitude": 29.12848,
-        "longitude": 58.25301
+        "latitude": 29.133984,
+        "longitude": 58.254817
       },
       "distancesKm": {
         "toHealthCenter": 14.52,
@@ -240,6 +249,9 @@
       "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": [
         "دبستان دخترانه",
         "دبستان پسرانه"
@@ -284,6 +296,9 @@
       "crisisManagementFacilities": false
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": null,
       "religiousSites": null,
       "sportsFacility": null,
@@ -321,9 +336,12 @@
       "basijBase": false,
       "school": false,
       "hazards": false,
-      "crisisManagementFacilities": false
+      "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": null,
       "religiousSites": [
         "مسجد امیرالمومنین (ع)"
@@ -361,9 +379,12 @@
       "basijBase": false,
       "school": false,
       "hazards": false,
-      "crisisManagementFacilities": false
+      "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": null,
       "religiousSites": [
         "مسجد جامع امام حسن مجتبی (ع)",
@@ -453,6 +474,9 @@
       "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": [
         "دبستان مختلط عمار"
       ],
@@ -492,9 +516,12 @@
       "basijBase": false,
       "school": false,
       "hazards": false,
-      "crisisManagementFacilities": false
+      "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": null,
       "religiousSites": null,
       "sportsFacility": null,
@@ -530,9 +557,12 @@
       "basijBase": false,
       "school": false,
       "hazards": false,
-      "crisisManagementFacilities": false
+      "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": null,
       "religiousSites": null,
       "sportsFacility": null,
@@ -568,9 +598,12 @@
       "basijBase": false,
       "school": false,
       "hazards": false,
-      "crisisManagementFacilities": false
+      "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": null,
       "religiousSites": [
         "مسجد امام رضا (ع)"
@@ -611,6 +644,9 @@
       "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": [
         "مدرسه ابتدایی مختلط"
       ],
@@ -655,6 +691,9 @@
       "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": null,
       "religiousSites": [
         "مسجد صاحب الزمان (عج)"
