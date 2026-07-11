@@ -150,7 +150,7 @@
       "basijBase": true,
       "school": true,
       "hazards": true,
-      "crisisManagementFacilities": false
+      "crisisManagementFacilities": true
     },
     "details": {
       "school": [
@@ -293,7 +293,7 @@
       "basijBase": false,
       "school": false,
       "hazards": true,
-      "crisisManagementFacilities": false
+      "crisisManagementFacilities": true
     },
     "details": {
       "crisisManagementFacilities": [
