@@ -1,4 +1,4 @@
-[ 
+[
   {
     "village": "اسلام آباد",
     "district": "حومه",
@@ -54,7 +54,7 @@
       "religiousSites": false,
       "basijBase": false,
       "school": false,
-      "hazards": false,
+      "hazards": true,
       "crisisManagementFacilities": true
     },
     "details": {
@@ -67,7 +67,9 @@
         "مسجد ابوالفضل  امیرآباد"
       ],
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل-رودخانه آدوری"
+      ],
       "population": {
         "total": 2091,
         "female": 1015,
@@ -117,7 +119,8 @@
         "سالن چند منظوره"
       ],
       "hazards": [
-        "سیل"
+        "سیل از بالادست به سمت ورودی روستا",
+        "آتش‌سوزی ناشی از سوختن ضایعات نخیلات"
       ],
       "population": {
         "total": 1518,
@@ -153,6 +156,9 @@
       "crisisManagementFacilities": true
     },
     "details": {
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
       "school": [
         "دبستان مختلط 22 بهمن"
       ],
@@ -163,7 +169,7 @@
         "پارک"
       ],
       "hazards": [
-        "سیل"
+        "آب‌گرفتگی بلوار اصلی روستا در اثر سیل"
       ],
       "population": {
         "total": 495,
@@ -347,7 +353,9 @@
         "مسجد امیرالمومنین (ع)"
       ],
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل-رودخانه آدوری"
+      ],
       "population": {
         "total": 238,
         "female": 115,
@@ -394,7 +402,9 @@
         "چمن",
         "سالن"
       ],
-      "hazards": null,
+      "hazards": [
+        "آب‌گرفتگی کوچه‌ها و معابر بر اثر سیلاب"
+      ],
       "population": {
         "total": 2042,
         "female": 1001,
@@ -597,7 +607,7 @@
       "religiousSites": false,
       "basijBase": false,
       "school": false,
-      "hazards": false,
+      "hazards": true,
       "crisisManagementFacilities": true
     },
     "details": {
@@ -609,7 +619,10 @@
         "مسجد امام رضا (ع)"
       ],
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل از بالادست به سمت ورودی روستا",
+        "آتش‌سوزی ناشی از سوختن ضایعات نخیلات"
+      ],
       "population": {
         "total": 119,
         "female": 52,
@@ -730,7 +743,9 @@
       "religiousSites": false,
       "basijBase": false,
       "school": false,
-      "hazards": false,
+      "hazards": [
+        "سیل-رودخانه آدوری"
+      ],
       "crisisManagementFacilities": false
     },
     "details": {
@@ -780,7 +795,7 @@
       ],
       "sportsFacility": null,
       "hazards": [
-        "سیل"
+        "مسدود شدن جاده روستا بر اثر سیل"
       ],
       "population": {
         "total": 442,
@@ -812,14 +827,16 @@
       "religiousSites": false,
       "basijBase": false,
       "school": false,
-      "hazards": false,
+      "hazards": true,
       "crisisManagementFacilities": false
     },
     "details": {
       "school": null,
       "religiousSites": null,
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل-رودخانه آدوری"
+      ],
       "population": {
         "total": 379,
         "female": 189,
@@ -985,7 +1002,8 @@
       "religiousSites": null,
       "sportsFacility": null,
       "hazards": [
-        "سیل"
+        "آب‌گرفتگی کوچه‌ها و معابر بر اثر سیلاب",
+        "طوفان"
       ],
       "population": {
         "total": 183,
@@ -1027,7 +1045,9 @@
         "حسینیه امام حسین (ع)"
       ],
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل بر اثر طغیان دو رودخانه‌ی روستا"
+      ],
       "population": {
         "total": 436,
         "female": 218,
@@ -1226,7 +1246,7 @@
       "religiousSites": null,
       "sportsFacility": null,
       "hazards": [
-        "سیل"
+        "مسدود شدن جاده روستا بر اثر سیل"
       ],
       "population": {
         "total": 191,
@@ -1306,7 +1326,7 @@
       "religiousSites": false,
       "basijBase": false,
       "school": false,
-      "hazards": false,
+      "hazards": true,
       "crisisManagementFacilities": false
     },
     "details": {
@@ -1315,7 +1335,9 @@
         "مسجد ابوالفضل ا لعباس (ع)"
       ],
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل-رودخانه آدوری"
+      ],
       "population": {
         "total": 324,
         "female": 162,
@@ -1354,7 +1376,7 @@
       "religiousSites": null,
       "sportsFacility": null,
       "hazards": [
-        "سیل",
+        "سیل-رودخانه آدوری",
         "آتش سوزی"
       ],
       "population": {
@@ -1435,7 +1457,9 @@
       "school": null,
       "religiousSites": null,
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل"
+      ],
       "population": {
         "total": 153,
         "female": 73,
@@ -1544,7 +1568,7 @@
       "religiousSites": false,
       "basijBase": false,
       "school": false,
-      "hazards": false,
+      "hazards": true,
       "crisisManagementFacilities": false
     },
     "details": {
@@ -1553,7 +1577,9 @@
         "مسجد 14 معصوم (ع)"
       ],
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل-رودخانه آدوری"
+      ],
       "population": {
         "total": 121,
         "female": 56,
@@ -1632,7 +1658,7 @@
       ],
       "sportsFacility": null,
       "hazards": [
-        "سیل"
+        "سیل-رودخانه آدوری"
       ],
       "population": {
         "total": 225,
@@ -1702,14 +1728,17 @@
       "religiousSites": false,
       "basijBase": false,
       "school": false,
-      "hazards": false,
+      "hazards": true,
       "crisisManagementFacilities": true
     },
     "details": {
       "school": null,
       "religiousSites": null,
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل",
+        "آتش سوزی"
+      ],
       "population": {
         "total": 207,
         "female": 100,
@@ -1788,7 +1817,7 @@
       ],
       "sportsFacility": null,
       "hazards": [
-        "سیل"
+        "سیل-رودخانه آدوری"
       ],
       "population": {
         "total": 231,
