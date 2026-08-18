@@ -743,16 +743,16 @@
       "religiousSites": false,
       "basijBase": false,
       "school": false,
-      "hazards": [
-        "سیل-رودخانه آدوری"
-      ],
+      "hazards": false,
       "crisisManagementFacilities": false
     },
     "details": {
       "school": null,
       "religiousSites": null,
       "sportsFacility": null,
-      "hazards": null,
+            "hazards": [
+        "سیل-رودخانه آدوری"
+      ],
       "population": {
         "total": 130,
         "female": 65,
