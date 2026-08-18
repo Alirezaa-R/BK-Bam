@@ -380,13 +380,13 @@
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
     "summary": {
       "householdCount": 630,
-      "villageCouncilBuilding": false,
-      "healthHouse": false,
-      "sportsFacility": false,
-      "religiousSites": false,
-      "basijBase": false,
-      "school": false,
-      "hazards": false,
+      "villageCouncilBuilding": true,
+      "healthHouse": true,
+      "sportsFacility": true,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": true,
+      "hazards": true,
       "crisisManagementFacilities": true
     },
     "details": {
