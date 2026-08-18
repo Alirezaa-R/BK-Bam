@@ -393,7 +393,10 @@
       "crisisManagementFacilities": [
         "ساختمان مدیریت بحران بخش"
       ],
-      "school": null,
+      "school": [
+        "دبستان دخترانه",
+        "دبستان پسرانه"
+      ],
       "religiousSites": [
         "مسجد جامع امام حسن مجتبی (ع)",
         "حسینیه امام زاده خواجه عسکر "
@@ -750,7 +753,7 @@
       "school": null,
       "religiousSites": null,
       "sportsFacility": null,
-            "hazards": [
+      "hazards": [
         "سیل-رودخانه آدوری"
       ],
       "population": {
