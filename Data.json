@@ -299,7 +299,8 @@
       "basijBase": false,
       "school": false,
       "hazards": true,
-      "crisisManagementFacilities": true
+      "crisisManagementFacilities": true,
+      "crisisManagementSuggestion": "با توجه به خطر سیل، پیشنهاد می‌شود اقدامات پیشگیرانه برای مدیریت روان‌آب و آبگرفتگی، شناسایی مسیرهای امن خروج و دسترسی به مناطق مرتفع، تعیین محل اسکان اضطراری و تجهیز روستا به امکانات اولیه امداد و نجات در اولویت قرار گیرد."
     },
     "details": {
       "crisisManagementFacilities": [
@@ -723,8 +724,8 @@
       },
       "elevation": 1150,
       "location": {
-        "latitude": 29.12848,
-        "longitude": 58.25301
+        "latitude": 29.119370,
+        "longitude": 58.271627
       },
       "distancesKm": {
         "toHealthCenter": 14.52,
@@ -847,8 +848,8 @@
       },
       "elevation": 1650,
       "location": {
-        "latitude": 28.97593,
-        "longitude": 58.1281
+        "latitude": 28.972180,
+        "longitude": 58.125884
       },
       "distancesKm": {
         "toHealthCenter": 27.68,
@@ -1430,8 +1431,8 @@
       },
       "elevation": 1912,
       "location": {
-        "latitude": 29.0512,
-        "longitude": 57.98853
+        "latitude": 28.918433,
+        "longitude": 58.100154
       },
       "distancesKm": {
         "toHealthCenter": 39.04,
@@ -1548,8 +1549,8 @@
       },
       "elevation": 1912,
       "location": {
-        "latitude": 29.0512,
-        "longitude": 57.98853
+        "latitude": 28.949628,
+        "longitude": 57.987668
       },
       "distancesKm": {
         "toHealthCenter": 39.04,
@@ -1590,8 +1591,8 @@
       },
       "elevation": 1693,
       "location": {
-        "latitude": 28.95593,
-        "longitude": 58.10748
+        "latitude": 28.958210,
+        "longitude": 58.112342
       },
       "distancesKm": {
         "toHealthCenter": 30.43,
@@ -1670,8 +1671,8 @@
       },
       "elevation": 1912,
       "location": {
-        "latitude": 29.0512,
-        "longitude": 57.98853
+        "latitude": 28.95593,
+        "longitude": 58.10748
       },
       "distancesKm": {
         "toHealthCenter": 39.04,
@@ -1749,8 +1750,8 @@
       },
       "elevation": 1912,
       "location": {
-        "latitude": 29.0512,
-        "longitude": 57.98853
+        "latitude": 28.962461,
+        "longitude": 57.984180
       },
       "distancesKm": {
         "toHealthCenter": 39.04,
@@ -1787,8 +1788,8 @@
       },
       "elevation": 1912,
       "location": {
-        "latitude": 29.0512,
-        "longitude": 57.98853
+        "latitude": 28.843930,
+        "longitude": 58.228351
       },
       "distancesKm": {
         "toHealthCenter": 39.04,
