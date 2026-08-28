@@ -291,7 +291,7 @@
     "district": "حومه",
     "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
     "summary": {
-      "householdCount": 40,
+      "householdCount": 35,
       "villageCouncilBuilding": false,
       "healthHouse": false,
       "sportsFacility": false,
@@ -299,8 +299,7 @@
       "basijBase": false,
       "school": false,
       "hazards": true,
-      "crisisManagementFacilities": true,
-      "crisisManagementSuggestion": "با توجه به خطر سیل، پیشنهاد می‌شود اقدامات پیشگیرانه برای مدیریت روان‌آب و آبگرفتگی، شناسایی مسیرهای امن خروج و دسترسی به مناطق مرتفع، تعیین محل اسکان اضطراری و تجهیز روستا به امکانات اولیه امداد و نجات در اولویت قرار گیرد."
+      "crisisManagementFacilities": true
     },
     "details": {
       "crisisManagementFacilities": [
@@ -327,7 +326,30 @@
         "toEmergencyBase": 5.01,
         "toDistrictCenter": 5.8
       },
-      "description": null
+      "description": null,
+      "crisisManagementRecommendations": [
+        {
+          "mainHazard": "سیل",
+          "actions": [
+            "شناسایی و علامت‌گذاری مناطق پرخطر و مسیرهای احتمالی سیلاب",
+            "تعیین محل امن برای تجمع و اسکان موقت ۱۲۵ نفر جمعیت روستا",
+            "بررسی و پاکسازی مسیر آبراهه‌ها و نقاط مستعد انسداد",
+            "تهیه مسیر تخلیه اضطراری روستا به سمت منطقه امن",
+            "هماهنگی قبلی با ساختمان مدیریت بحران بخش و پایگاه اورژانس",
+            "اطلاع‌رسانی به خانوارها درباره اقدامات لازم هنگام وقوع سیل",
+            "تأمین اقلام اولیه امدادی و اضطراری در روستا",
+            "پایش وضعیت بارندگی و اعلام هشدار سریع به ساکنان در زمان خطر"
+          ]
+        },
+        {
+          "mainHazard": "زلزله",
+          "actions": [
+            "شناسایی سازه‌های ناایمن و نیازمند بهسازی",
+            "تعیین فضای باز ایمن برای اسکان اضطراری اهالی",
+            "آموزش پناه‌گیری صحیح و اقدامات فوری به ساکنان روستا"
+          ]
+        }
+      ]
     }
   },
   {
