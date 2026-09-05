@@ -11,7 +11,7 @@
       "religiousSites": true,
       "basijBase": false,
       "school": false,
-      "hazards": false,
+      "hazards": true,
       "crisisManagementFacilities": true
     },
     "details": {
@@ -20,7 +20,9 @@
         "حسینیه ابوالفضل (ع)"
       ],
       "sportsFacility": null,
-      "hazards": null,
+      "hazards": [
+        "سیل-رودخانه خواجه عسکر"
+      ],
       "crisisManagementFacilities": [
         "ساختمان مدیریت بحران بخش"
       ],
@@ -69,7 +71,7 @@
       ],
       "sportsFacility": null,
       "hazards": [
-        "سیل-رودخانه آدوری"
+        "ورود سیل به روستا و زمین های کشاورزی روستا بعد از عبور از پل های جاده بم-کرمان"
       ],
       "population": {
         "total": 2091,
@@ -218,7 +220,8 @@
         "پارک"
       ],
       "hazards": [
-        "آب‌گرفتگی بلوار اصلی روستا در اثر سیل"
+        "آب‌گرفتگی بلوار اصلی روستا در اثر سیل",
+        "نشست جاده روستا در قسمت عبوری چاه قنات دهشتر"
       ],
       "population": {
         "total": 495,
@@ -336,7 +339,7 @@
       "religiousSites": true,
       "basijBase": false,
       "school": true,
-      "hazards": false,
+      "hazards": true,
       "crisisManagementFacilities": true
     },
     "details": {
@@ -352,7 +355,10 @@
         "حسینیه ابوالفضل (ع)"
       ],
       "sportsFacility": null,
-      "hazards": null,
+       "hazards": [
+        "سیل-رودخانه خواجه عسکر",
+        "جاری شدن سیلاب جاده بم کرمان به داخل روستا"
+      ],
       "population": {
         "total": 802,
         "female": 382,
@@ -1097,7 +1103,8 @@
       "religiousSites": null,
       "sportsFacility": null,
       "hazards": [
-        "سیل-رودخانه آدوری"
+        "سیل-رودخانه آدوری",
+        "تخریت کانال هدایت آب کشاورزی از رودخانه به روستا در اثر سیل"
       ],
       "population": {
         "total": 379,
@@ -1748,7 +1755,9 @@
       ],
       "sportsFacility": null,
       "hazards": [
-        "سیل-رودخانه آدوری"
+        "سیل-رودخانه آدوری",
+        "مسدود شدن جاده روستا بر اثر سیل و بارندگی",
+        "ریزش کوه و تخریب خانه های پایین دست"
       ],
       "population": {
         "total": 324,
