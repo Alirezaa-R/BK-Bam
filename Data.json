@@ -1080,7 +1080,7 @@
   {
     "village": "اناران",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Anaran.jpg",
     "summary": {
       "householdCount": 55,
       "villageCouncilBuilding": false,
@@ -1206,7 +1206,7 @@
   {
     "village": "آدوری",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Adori.jpg",
     "summary": {
       "householdCount": 134,
       "villageCouncilBuilding": true,
@@ -1903,7 +1903,7 @@
   {
     "village": "دسک",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Desk.jpg",
     "summary": {
       "householdCount": 108,
       "villageCouncilBuilding": false,
@@ -2435,7 +2435,7 @@
   {
     "village": "گزدان",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Gazdan.jpg",
     "summary": {
       "householdCount": 89,
       "villageCouncilBuilding": false,
@@ -2539,7 +2539,7 @@
   {
     "village": "گورو",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Gevro.jpg",
     "summary": {
       "householdCount": 85,
       "villageCouncilBuilding": true,
@@ -2659,7 +2659,7 @@
   {
     "village": "مغوئیه",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Maghwiyya.jpg",
     "summary": {
       "householdCount": 81,
       "villageCouncilBuilding": false,
