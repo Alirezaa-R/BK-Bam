@@ -136,7 +136,7 @@
   {
     "village": "باغچمک",
     "district": "حومه",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Bagh-e-Chamak.jpg",
     "summary": {
       "householdCount": 455,
       "villageCouncilBuilding": true,
@@ -229,7 +229,7 @@
   {
     "village": "بیدران کهنه",
     "district": "حومه",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/bidaran-konpanneh.jpg",
     "summary": {
       "householdCount": 154,
       "villageCouncilBuilding": false,
@@ -543,7 +543,7 @@
   {
     "village": "حمزه ای",
     "district": "حومه",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/hamzeh-e.jpg",
     "summary": {
       "householdCount": 91,
       "villageCouncilBuilding": false,
@@ -611,7 +611,7 @@
   {
     "village": "خواجه عسکر",
     "district": "حومه",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/khajeh-asker.jpg",
     "summary": {
       "householdCount": 630,
       "villageCouncilBuilding": true,
@@ -1329,7 +1329,7 @@
   {
     "village": "پوطار",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Poutar.jpg",
     "summary": {
       "householdCount": 56,
       "villageCouncilBuilding": false,
@@ -2085,7 +2085,7 @@
   {
     "village": "زینقوئیه",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/zanighuiyeh.jpg",
     "summary": {
       "householdCount": 71,
       "villageCouncilBuilding": true,
@@ -2166,7 +2166,7 @@
   {
     "village": "زومین",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Zoomin.png",
     "summary": {
       "householdCount": 49,
       "villageCouncilBuilding": false,
@@ -2331,7 +2331,7 @@
   {
     "village": "گزتین",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Geztin.png",
     "summary": {
       "householdCount": 37,
       "villageCouncilBuilding": false,
