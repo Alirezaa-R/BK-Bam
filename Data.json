@@ -2,7 +2,7 @@
   {
     "village": "اسلام آباد",
     "district": "حومه",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/eslam-abad.jpg",
     "summary": {
       "householdCount": 56,
       "villageCouncilBuilding": false,
@@ -70,7 +70,7 @@
   {
     "village": "امیر آباد",
     "district": "حومه",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/amir-abad.png",
     "summary": {
       "householdCount": 689,
       "villageCouncilBuilding": true,
@@ -837,7 +837,7 @@
   {
     "village": "قلعه عسکر",
     "district": "حومه",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/ghale-asker.jpeg",
     "summary": {
       "householdCount": 139,
       "villageCouncilBuilding": false,
@@ -1286,7 +1286,7 @@
   {
     "village": "باغ تک",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/bagh-tak.jpg",
     "summary": {
       "householdCount": 87,
       "villageCouncilBuilding": false,
@@ -1413,7 +1413,7 @@
   {
     "village": "توکل آباد",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Tavakkol-Abad.jpg",
     "summary": {
       "householdCount": 50,
       "villageCouncilBuilding": false,
@@ -1455,7 +1455,7 @@
   {
     "village": "تیتوپر",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Titopar.jpg",
     "summary": {
       "householdCount": 56,
       "villageCouncilBuilding": false,
@@ -1631,7 +1631,7 @@
   {
     "village": "داردین",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/dardin.jpg",
     "summary": {
       "householdCount": 81,
       "villageCouncilBuilding": false,
@@ -2229,7 +2229,7 @@
   {
     "village": "سابات",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Sabat.jpg",
     "summary": {
       "householdCount": 40,
       "villageCouncilBuilding": false,
@@ -2500,7 +2500,7 @@
   {
     "village": "گودپده",
     "district": "دریجان",
-    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/godpadeh.jpg",
     "summary": {
       "householdCount": 95,
       "villageCouncilBuilding": false,
