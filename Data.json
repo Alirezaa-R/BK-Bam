@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "generatedAtUtc": "2026-09-21T17:10:23Z",
+ "generatedAtUtc": "2026-09-22T03:03:16Z",
  "generatedBy": "tools/build-dataset.py",
  "source": {
   "repository": "Alirezaa-R/BK-Bam",
@@ -16,7 +16,7 @@
   "populationTotalMismatch": "جمع زن و مرد با جمع کل اعلام‌شده در منبع برابر نیست؛ هر دو مقدار بدون تغییر نگه داشته شده‌اند.",
   "*FlagCorrected": "پرچم خلاصه در منبع false بود اما فهرست جزئیات آن را تأیید می‌کرد؛ به true اصلاح شد.",
   "noCrisisRecommendations": "برای این روستا سند توصیه‌های مدیریت بحران در منبع ثبت نشده است.",
-  "hasDehyari": "میدان «دهیاری» در هر روستا با کلید hasDehyari آمده است: 44 روستای دارای دهیاری (دهستان‌های حومه و دریجان) و 62 روستای بدون دهیاری (همه در دهستان دریجان).",
+  "hasDehyari": "میدان «دهیاری» در هر روستا با کلید hasDehyari آمده است: 44 روستای دارای دهیاری (دهستان‌های حومه و دریجان) و 62 روستای فاقد دهیاری (همه در دهستان دریجان).",
   "defaultImages": "برای روستاهایی که تصویر واقعی ندارند یکی از تصاویر «پیش‌فرض» (images/villages/defaults) به نوبت به کار رفته است؛ این تصاویر عکس واقعی روستا نیستند.",
   "newVillages": "برای روستاهای تازه فقط جمعیت، خانوار و (در صورت وجود) مختصات ثبت شده است؛ امکانات، مخاطرات و توصیه‌های مدیریت بحران آن‌ها هنوز در فهرست نیامده است."
  },
@@ -545,120 +545,120 @@
    "hasDehyari": true
   },
   {
-   "id": "pakam",
-   "name": "پاکم",
-   "districtName": "حومه",
-   "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
-   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
-   "summary": {
-    "householdCount": 228,
-    "villageCouncilBuilding": true,
-    "healthHouse": true,
-    "sportsFacility": false,
-    "religiousSites": true,
-    "basijBase": false,
-    "school": true,
-    "hazards": true,
-    "crisisManagementFacilities": true
-   },
-   "details": {
-    "population": {
-     "total": 802,
-     "female": 382,
-     "male": 420
+    "id": "pakam",
+    "name": "پاکم",
+    "districtName": "حومه",
+    "hasPhoto": false,
+    "image": "images/villages/defaults/default-6.webp",
+    "thumbnail": "images/villages/thumbs/default-6.webp",
+    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/pakam.jpg",
+    "sourceImageFile": "default.jpg",
+    "summary": {
+      "householdCount": 228,
+      "villageCouncilBuilding": true,
+      "healthHouse": true,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": false,
+      "school": true,
+      "hazards": true,
+      "crisisManagementFacilities": true
     },
-    "elevation": 1150,
-    "location": {
-     "latitude": 29.12788,
-     "longitude": 58.26712
+    "details": {
+      "population": {
+        "total": 802,
+        "female": 382,
+        "male": 420
+      },
+      "elevation": 1150,
+      "location": {
+        "latitude": 29.12788,
+        "longitude": 58.26712
+      },
+      "distancesKm": {
+        "toHealthCenter": 13.25,
+        "toEmergencyBase": 1.45,
+        "toDistrictCenter": 1.0
+      },
+      "school": [
+        "دبستان دخترانه",
+        "دبستان پسرانه"
+      ],
+      "religiousSites": [
+        "مسجد صاحب الزمان (عج)",
+        "حسینیه ابوالفضل (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": [
+        "سیل-رودخانه خواجه عسکر",
+        "جاری شدن سیلاب جاده بم-کرمان به داخل روستا"
+      ],
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
+      "description": null
     },
-    "distancesKm": {
-     "toHealthCenter": 13.25,
-     "toEmergencyBase": 1.45,
-     "toDistrictCenter": 1.0
-    },
-    "school": [
-     "دبستان دخترانه",
-     "دبستان پسرانه"
+    "crisisManagementRecommendations": [
+      {
+        "mainHazard": "سیل-رودخانه خواجه عسکر",
+        "preventiveActions": [
+          "شناسایی و علامت‌گذاری محدوده‌های نزدیک به رودخانه خواجه عسکر و مسیرهای احتمالی ورود سیلاب به بافت روستا",
+          "تعیین محل امن و مرتفع (ساختمان مدیریت بحران بخش) برای تجمع و اسکان موقت جمعیت ۸۰۲ نفری روستا",
+          "بررسی و پاکسازی دوره‌ای بستر رودخانه، آبراهه‌ها و نقاط مستعد انسداد یا انحراف آب پیش از فصل بارندگی",
+          "تعیین و علامت‌گذاری مسیر تخلیه اضطراری دور از حریم رودخانه به سمت محدوده امن",
+          "هماهنگی پیشین با پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) و مشخص‌کردن مسیر دسترسی سریع نیروهای امدادی",
+          "اطلاع‌رسانی به خانوارهای ساکن در حریم رودخانه درباره ممنوعیت تردد یا توقف هنگام هشدار سیلاب",
+          "تهیه فهرست خانوارها و شناسایی افراد نیازمند کمک در زمان تخلیه، به‌ویژه سالمندان و کودکان",
+          "تأمین اقلام اولیه (آب آشامیدنی، چراغ اضطراری، جعبه کمک‌های اولیه و وسایل ارتباطی) در محل تجمع اضطراری"
+        ],
+        "duringIncidentActions": [
+          "پایش مستمر تراز آب رودخانه خواجه عسکر و بارندگی در بالادست و انتقال سریع هشدار به اهالی از طریق دهیاری",
+          "هدایت اهالی به محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان، سالمندان و افراد کم‌توان",
+          "مسدودسازی مسیرهای نزدیک به رودخانه برای جلوگیری از عبور خودرو و عابر در زمان طغیان",
+          "درخواست فوری اعزام نیرو از پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) در صورت وقوع حادثه",
+          "هماهنگی با شورای اسلامی روستا و ستاد مدیریت بحران شهرستان بم برای مدیریت عملیات امداد و اطلاع‌رسانی",
+          "بررسی وضعیت پل‌ها، کانال‌ها و اراضی کشاورزی مجاور رودخانه پس از فروکش سیلاب و گزارش خسارات"
+        ]
+      },
+      {
+        "mainHazard": "جاری شدن سیلاب جاده بم-کرمان به داخل روستا",
+        "preventiveActions": [
+          "شناسایی نقاط ورود سیلاب از جاده بم-کرمان به داخل بافت روستا و علامت‌گذاری آن‌ها",
+          "تعیین محل امن (ساختمان مدیریت بحران بخش) برای تجمع اضطراری جمعیت ۸۰۲ نفری روستا در صورت ورود سیلاب",
+          "بهسازی و پاکسازی مستمر آبروها و مسیرهای هدایت آب جاده به خارج از محدوده مسکونی پیش از فصل بارندگی",
+          "هماهنگی با راهداری جهت بررسی و اصلاح شیب‌بندی و آبروهای جاده بم-کرمان در مجاورت روستا",
+          "هماهنگی پیشین با پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) جهت واکنش سریع",
+          "آموزش اهالی درباره خطر ورود ناگهانی سیلاب از جاده و لزوم پرهیز از تردد در زمان بارندگی شدید"
+        ],
+        "duringIncidentActions": [
+          "پایش مستمر وضعیت بارندگی و جریان آب جاده بم-کرمان و اعلام سریع هشدار به اهالی",
+          "مسدودسازی موقت ورودی‌های آب‌گیر برای جلوگیری از نفوذ سیلاب به داخل بافت روستا",
+          "هدایت اهالی به محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان و سالمندان",
+          "درخواست فوری کمک از پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) در صورت وقوع حادثه",
+          "پایش وضعیت تا فروکش کامل سیلاب و بررسی خسارات وارده به منازل و معابر روستا"
+        ]
+      }
     ],
-    "religiousSites": [
-     "مسجد صاحب الزمان (عج)",
-     "حسینیه ابوالفضل (ع)"
+    "dataQuality": [],
+    "districtId": "humeh",
+    "nearest": [
+      {
+        "id": "darbagh",
+        "name": "درباغ",
+        "distanceKm": 0.56
+      },
+      {
+        "id": "ghaleh-askar",
+        "name": "قلعه عسکر",
+        "distanceKm": 0.56
+      },
+      {
+        "id": "anaran",
+        "name": "اناران",
+        "distanceKm": 0.56
+      }
     ],
-    "sportsFacility": null,
-    "hazards": [
-     "سیل-رودخانه خواجه عسکر",
-     "جاری شدن سیلاب جاده بم-کرمان به داخل روستا"
-    ],
-    "crisisManagementFacilities": [
-     "ساختمان مدیریت بحران بخش"
-    ],
-    "description": null
-   },
-   "crisisManagementRecommendations": [
-    {
-     "mainHazard": "سیل-رودخانه خواجه عسکر",
-     "preventiveActions": [
-      "شناسایی و علامت‌گذاری محدوده‌های نزدیک به رودخانه خواجه عسکر و مسیرهای احتمالی ورود سیلاب به بافت روستا",
-      "تعیین محل امن و مرتفع (ساختمان مدیریت بحران بخش) برای تجمع و اسکان موقت جمعیت ۸۰۲ نفری روستا",
-      "بررسی و پاکسازی دوره‌ای بستر رودخانه، آبراهه‌ها و نقاط مستعد انسداد یا انحراف آب پیش از فصل بارندگی",
-      "تعیین و علامت‌گذاری مسیر تخلیه اضطراری دور از حریم رودخانه به سمت محدوده امن",
-      "هماهنگی پیشین با پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) و مشخص‌کردن مسیر دسترسی سریع نیروهای امدادی",
-      "اطلاع‌رسانی به خانوارهای ساکن در حریم رودخانه درباره ممنوعیت تردد یا توقف هنگام هشدار سیلاب",
-      "تهیه فهرست خانوارها و شناسایی افراد نیازمند کمک در زمان تخلیه، به‌ویژه سالمندان و کودکان",
-      "تأمین اقلام اولیه (آب آشامیدنی، چراغ اضطراری، جعبه کمک‌های اولیه و وسایل ارتباطی) در محل تجمع اضطراری"
-     ],
-     "duringIncidentActions": [
-      "پایش مستمر تراز آب رودخانه خواجه عسکر و بارندگی در بالادست و انتقال سریع هشدار به اهالی از طریق دهیاری",
-      "هدایت اهالی به محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان، سالمندان و افراد کم‌توان",
-      "مسدودسازی مسیرهای نزدیک به رودخانه برای جلوگیری از عبور خودرو و عابر در زمان طغیان",
-      "درخواست فوری اعزام نیرو از پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) در صورت وقوع حادثه",
-      "هماهنگی با شورای اسلامی روستا و ستاد مدیریت بحران شهرستان بم برای مدیریت عملیات امداد و اطلاع‌رسانی",
-      "بررسی وضعیت پل‌ها، کانال‌ها و اراضی کشاورزی مجاور رودخانه پس از فروکش سیلاب و گزارش خسارات"
-     ]
-    },
-    {
-     "mainHazard": "جاری شدن سیلاب جاده بم-کرمان به داخل روستا",
-     "preventiveActions": [
-      "شناسایی نقاط ورود سیلاب از جاده بم-کرمان به داخل بافت روستا و علامت‌گذاری آن‌ها",
-      "تعیین محل امن (ساختمان مدیریت بحران بخش) برای تجمع اضطراری جمعیت ۸۰۲ نفری روستا در صورت ورود سیلاب",
-      "بهسازی و پاکسازی مستمر آبروها و مسیرهای هدایت آب جاده به خارج از محدوده مسکونی پیش از فصل بارندگی",
-      "هماهنگی با راهداری جهت بررسی و اصلاح شیب‌بندی و آبروهای جاده بم-کرمان در مجاورت روستا",
-      "هماهنگی پیشین با پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) جهت واکنش سریع",
-      "آموزش اهالی درباره خطر ورود ناگهانی سیلاب از جاده و لزوم پرهیز از تردد در زمان بارندگی شدید"
-     ],
-     "duringIncidentActions": [
-      "پایش مستمر وضعیت بارندگی و جریان آب جاده بم-کرمان و اعلام سریع هشدار به اهالی",
-      "مسدودسازی موقت ورودی‌های آب‌گیر برای جلوگیری از نفوذ سیلاب به داخل بافت روستا",
-      "هدایت اهالی به محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان و سالمندان",
-      "درخواست فوری کمک از پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) در صورت وقوع حادثه",
-      "پایش وضعیت تا فروکش کامل سیلاب و بررسی خسارات وارده به منازل و معابر روستا"
-     ]
-    }
-   ],
-   "dataQuality": [],
-   "districtId": "humeh",
-   "nearest": [
-    {
-     "id": "darbagh",
-     "name": "درباغ",
-     "distanceKm": 0.56
-    },
-    {
-     "id": "ghaleh-askar",
-     "name": "قلعه عسکر",
-     "distanceKm": 0.56
-    },
-    {
-     "id": "anaran",
-     "name": "اناران",
-     "distanceKm": 0.56
-    }
-   ],
-   "hasDehyari": true
+    "hasDehyari": true
   },
   {
    "id": "papdeh",
@@ -1363,99 +1363,99 @@
    "hasDehyari": true
   },
   {
-   "id": "gazdar",
-   "name": "گزدر",
-   "districtName": "حومه",
-   "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
-   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
-   "summary": {
-    "householdCount": 80,
-    "villageCouncilBuilding": false,
-    "healthHouse": false,
-    "sportsFacility": false,
-    "religiousSites": true,
-    "basijBase": true,
-    "school": true,
-    "hazards": true,
-    "crisisManagementFacilities": true
-   },
-   "details": {
-    "population": {
-     "total": 265,
-     "female": 130,
-     "male": 135
+    "id": "gazdar",
+    "name": "گزدر",
+    "districtName": "حومه",
+    "hasPhoto": false,
+    "image": "images/villages/defaults/default-3.webp",
+    "thumbnail": "images/villages/thumbs/default-3.webp",
+    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Gazdar.jpg",
+    "sourceImageFile": "default.jpg",
+    "summary": {
+      "householdCount": 80,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": true,
+      "basijBase": true,
+      "school": true,
+      "hazards": true,
+      "crisisManagementFacilities": true
     },
-    "elevation": 1150,
-    "location": {
-     "latitude": 29.12848,
-     "longitude": 58.25301
+    "details": {
+      "population": {
+        "total": 265,
+        "female": 130,
+        "male": 135
+      },
+      "elevation": 1150,
+      "location": {
+        "latitude": 29.12848,
+        "longitude": 58.25301
+      },
+      "distancesKm": {
+        "toHealthCenter": 14.52,
+        "toEmergencyBase": 0.68,
+        "toDistrictCenter": 1.41
+      },
+      "school": [
+        "مدرسه ابتدایی مختلط"
+      ],
+      "religiousSites": [
+        "مسجد ابوالفضل (ع)"
+      ],
+      "sportsFacility": null,
+      "hazards": [
+        "سیل"
+      ],
+      "crisisManagementFacilities": [
+        "ساختمان مدیریت بحران بخش"
+      ],
+      "description": null
     },
-    "distancesKm": {
-     "toHealthCenter": 14.52,
-     "toEmergencyBase": 0.68,
-     "toDistrictCenter": 1.41
-    },
-    "school": [
-     "مدرسه ابتدایی مختلط"
+    "crisisManagementRecommendations": [
+      {
+        "mainHazard": "سیل",
+        "preventiveActions": [
+          "شناسایی و علامت‌گذاری مسیرهای احتمالی ورود سیلاب و نقاط مستعد آب‌گرفتگی در محدوده روستای گزدر",
+          "تعیین و ایمن‌سازی یک محل امن و مرتفع (ساختمان مدیریت بحران بخش) برای تجمع و اسکان موقت جمعیت ۲۶۵ نفری روستا",
+          "لایروبی و پاکسازی دوره‌ای آبراهه‌ها، جوی‌ها و نقاط مستعد انسداد پیش از آغاز فصل بارندگی",
+          "تعیین و علامت‌گذاری حداقل یک مسیر تخلیه اضطراری از نقاط پرخطر به سمت محل امن",
+          "هماهنگی پیشین با ساختمان مدیریت بحران بخش برای تدوین پروتکل هشدار و واکنش سریع",
+          "هماهنگی از پیش با پایگاه اورژانس (در فاصله ۰.۶۸ کیلومتری) برای تسریع اعزام نیرو هنگام بروز سیلاب",
+          "تهیه فهرست خانوارها و شناسایی افراد نیازمند کمک هنگام تخلیه، به‌ویژه سالمندان و کودکان",
+          "آموزش اهالی درباره خودداری از تردد و توقف در مسیرهای دارای جریان آب هنگام هشدار سیلاب"
+        ],
+        "duringIncidentActions": [
+          "پایش مستمر بارندگی و وضعیت آبراهه‌ها و اعلام سریع هشدار به اهالی، به‌ویژه خانوارهای نزدیک به مسیرهای سیل‌گیر",
+          "هدایت منظم اهالی به سمت محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان، سالمندان و افراد کم‌توان",
+          "مسدودسازی آنی مسیرهای آب‌گرفته برای جلوگیری از تردد خودرو و عابر",
+          "اطلاع‌رسانی و درخواست کمک از پایگاه اورژانس (فاصله ۰.۶۸ کیلومتری) در صورت نیاز به امداد فوری",
+          "استقرار مسئولین محلی در ساختمان مدیریت بحران بخش جهت هدایت عملیات و ارتباط با ستاد مدیریت بحران شهرستان بم",
+          "بررسی وضعیت خانوارهای آسیب‌دیده پس از فروکش سیلاب و گزارش خسارات به مراجع ذی‌ربط"
+        ]
+      }
     ],
-    "religiousSites": [
-     "مسجد ابوالفضل (ع)"
+    "dataQuality": [],
+    "districtId": "humeh",
+    "nearest": [
+      {
+        "id": "bidaran-kohneh",
+        "name": "بیدران کهنه",
+        "distanceKm": 0.63
+      },
+      {
+        "id": "bidaran-no",
+        "name": "بیدران نو",
+        "distanceKm": 0.64
+      },
+      {
+        "id": "sarjangal",
+        "name": "سرجنگل",
+        "distanceKm": 0.92
+      }
     ],
-    "sportsFacility": null,
-    "hazards": [
-     "سیل"
-    ],
-    "crisisManagementFacilities": [
-     "ساختمان مدیریت بحران بخش"
-    ],
-    "description": null
-   },
-   "crisisManagementRecommendations": [
-    {
-     "mainHazard": "سیل",
-     "preventiveActions": [
-      "شناسایی و علامت‌گذاری مسیرهای احتمالی ورود سیلاب و نقاط مستعد آب‌گرفتگی در محدوده روستای گزدر",
-      "تعیین و ایمن‌سازی یک محل امن و مرتفع (ساختمان مدیریت بحران بخش) برای تجمع و اسکان موقت جمعیت ۲۶۵ نفری روستا",
-      "لایروبی و پاکسازی دوره‌ای آبراهه‌ها، جوی‌ها و نقاط مستعد انسداد پیش از آغاز فصل بارندگی",
-      "تعیین و علامت‌گذاری حداقل یک مسیر تخلیه اضطراری از نقاط پرخطر به سمت محل امن",
-      "هماهنگی پیشین با ساختمان مدیریت بحران بخش برای تدوین پروتکل هشدار و واکنش سریع",
-      "هماهنگی از پیش با پایگاه اورژانس (در فاصله ۰.۶۸ کیلومتری) برای تسریع اعزام نیرو هنگام بروز سیلاب",
-      "تهیه فهرست خانوارها و شناسایی افراد نیازمند کمک هنگام تخلیه، به‌ویژه سالمندان و کودکان",
-      "آموزش اهالی درباره خودداری از تردد و توقف در مسیرهای دارای جریان آب هنگام هشدار سیلاب"
-     ],
-     "duringIncidentActions": [
-      "پایش مستمر بارندگی و وضعیت آبراهه‌ها و اعلام سریع هشدار به اهالی، به‌ویژه خانوارهای نزدیک به مسیرهای سیل‌گیر",
-      "هدایت منظم اهالی به سمت محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان، سالمندان و افراد کم‌توان",
-      "مسدودسازی آنی مسیرهای آب‌گرفته برای جلوگیری از تردد خودرو و عابر",
-      "اطلاع‌رسانی و درخواست کمک از پایگاه اورژانس (فاصله ۰.۶۸ کیلومتری) در صورت نیاز به امداد فوری",
-      "استقرار مسئولین محلی در ساختمان مدیریت بحران بخش جهت هدایت عملیات و ارتباط با ستاد مدیریت بحران شهرستان بم",
-      "بررسی وضعیت خانوارهای آسیب‌دیده پس از فروکش سیلاب و گزارش خسارات به مراجع ذی‌ربط"
-     ]
-    }
-   ],
-   "dataQuality": [],
-   "districtId": "humeh",
-   "nearest": [
-    {
-     "id": "bidaran-kohneh",
-     "name": "بیدران کهنه",
-     "distanceKm": 0.63
-    },
-    {
-     "id": "bidaran-no",
-     "name": "بیدران نو",
-     "distanceKm": 0.64
-    },
-    {
-     "id": "sarjangal",
-     "name": "سرجنگل",
-     "distanceKm": 0.92
-    }
-   ],
-   "hasDehyari": true
+    "hasDehyari": true
   },
   {
    "id": "hararun",
@@ -3421,73 +3421,73 @@
    "hasDehyari": true
   },
   {
-   "id": "kolupdeh",
-   "name": "کلوپده",
-   "districtName": "دریجان",
-   "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
-   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
-   "summary": {
-    "householdCount": 102,
-    "villageCouncilBuilding": false,
-    "healthHouse": false,
-    "sportsFacility": false,
-    "religiousSites": false,
-    "basijBase": false,
-    "school": false,
-    "hazards": false,
-    "crisisManagementFacilities": false
-   },
-   "details": {
-    "population": {
-     "total": 227,
-     "female": 140,
-     "male": 137
+    "id": "kolupdeh",
+    "name": "کلوپده",
+    "districtName": "دریجان",
+    "hasPhoto": false,
+    "image": "images/villages/defaults/default-2.webp",
+    "thumbnail": "images/villages/thumbs/default-2.webp",
+    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/kolupdeh.jpg",
+    "sourceImageFile": "default.jpg",
+    "summary": {
+      "householdCount": 102,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
     },
-    "elevation": 1912,
-    "location": {
-     "latitude": 28.854651,
-     "longitude": 58.246707
+    "details": {
+      "population": {
+        "total": 227,
+        "female": 140,
+        "male": 137
+      },
+      "elevation": 1912,
+      "location": {
+        "latitude": 28.854651,
+        "longitude": 58.246707
+      },
+      "distancesKm": {
+        "toHealthCenter": 39.04,
+        "toEmergencyBase": 27.43,
+        "toDistrictCenter": 27.77
+      },
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "crisisManagementFacilities": null,
+      "description": null
     },
-    "distancesKm": {
-     "toHealthCenter": 39.04,
-     "toEmergencyBase": 27.43,
-     "toDistrictCenter": 27.77
-    },
-    "school": null,
-    "religiousSites": null,
-    "sportsFacility": null,
-    "hazards": null,
-    "crisisManagementFacilities": null,
-    "description": null
-   },
-   "crisisManagementRecommendations": [],
-   "dataQuality": [
-    "populationTotalMismatch",
-    "noCrisisRecommendations",
-    "مختصات قبلی این روستا با «جزین» یکی بود؛ از فهرست تازه اصلاح شد."
-   ],
-   "districtId": "darijan",
-   "nearest": [
-    {
-     "id": "guk",
-     "name": "گوک",
-     "distanceKm": 2.25
-    },
-    {
-     "id": "darzarb",
-     "name": "درزرب",
-     "distanceKm": 3.79
-    },
-    {
-     "id": "srprydh",
-     "name": "سرپریده",
-     "distanceKm": 4.15
-    }
-   ],
-   "hasDehyari": true
+    "crisisManagementRecommendations": [],
+    "dataQuality": [
+      "populationTotalMismatch",
+      "noCrisisRecommendations",
+      "مختصات قبلی این روستا با «جزین» یکی بود؛ از فهرست تازه اصلاح شد."
+    ],
+    "districtId": "darijan",
+    "nearest": [
+      {
+        "id": "guk",
+        "name": "گوک",
+        "distanceKm": 2.25
+      },
+      {
+        "id": "darzarb",
+        "name": "درزرب",
+        "distanceKm": 3.79
+      },
+      {
+        "id": "srprydh",
+        "name": "سرپریده",
+        "distanceKm": 4.15
+      }
+    ],
+    "hasDehyari": true
   },
   {
    "id": "gazdan",
@@ -4873,71 +4873,69 @@
    "districtId": "darijan"
   },
   {
-   "id": "hmyd",
-   "name": "حميد",
-   "districtName": "دریجان",
-   "hasDehyari": false,
-   "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
-   "sourceImageUrl": null,
-   "sourceImageFile": null,
-   "summary": {
-    "householdCount": 43,
-    "villageCouncilBuilding": false,
-    "healthHouse": false,
-    "sportsFacility": false,
-    "religiousSites": false,
-    "basijBase": false,
-    "school": false,
-    "hazards": false,
-    "crisisManagementFacilities": false
-   },
-   "details": {
-    "population": {
-     "total": 93,
-     "female": null,
-     "male": null
+    "id": "hmyd",
+    "name": "حميد",
+    "districtName": "دریجان",
+    "hasDehyari": false,
+    "hasPhoto": false,
+    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/hmyd.jpg",
+    "sourceImageFile": "default.jpg",
+    "summary": {
+      "householdCount": 43,
+      "villageCouncilBuilding": false,
+      "healthHouse": false,
+      "sportsFacility": false,
+      "religiousSites": false,
+      "basijBase": false,
+      "school": false,
+      "hazards": false,
+      "crisisManagementFacilities": false
     },
-    "elevation": null,
-    "location": {
-     "latitude": 28.98862,
-     "longitude": 58.030868
+    "details": {
+      "population": {
+        "total": 93,
+        "female": null,
+        "male": null
+      },
+      "elevation": null,
+      "location": {
+        "latitude": 28.98862,
+        "longitude": 58.030868
+      },
+      "distancesKm": {
+        "toHealthCenter": null,
+        "toEmergencyBase": null,
+        "toDistrictCenter": null
+      },
+      "school": null,
+      "religiousSites": null,
+      "sportsFacility": null,
+      "hazards": null,
+      "crisisManagementFacilities": null,
+      "description": null
     },
-    "distancesKm": {
-     "toHealthCenter": null,
-     "toEmergencyBase": null,
-     "toDistrictCenter": null
-    },
-    "school": null,
-    "religiousSites": null,
-    "sportsFacility": null,
-    "hazards": null,
-    "crisisManagementFacilities": null,
-    "description": null
-   },
-   "crisisManagementRecommendations": [],
-   "nearest": [
-    {
-     "id": "putar",
-     "name": "پوطار",
-     "distanceKm": 2.76
-    },
-    {
-     "id": "tavakkolabad",
-     "name": "توکل آباد",
-     "distanceKm": 2.89
-    },
-    {
-     "id": "darijan",
-     "name": "دریجان",
-     "distanceKm": 4.29
-    }
-   ],
-   "dataQuality": [
-    "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
-   ],
-   "districtId": "darijan"
+    "crisisManagementRecommendations": [],
+    "nearest": [
+      {
+        "id": "putar",
+        "name": "پوطار",
+        "distanceKm": 2.76
+      },
+      {
+        "id": "tavakkolabad",
+        "name": "توکل آباد",
+        "distanceKm": 2.89
+      },
+      {
+        "id": "darijan",
+        "name": "دریجان",
+        "distanceKm": 4.29
+      }
+    ],
+    "dataQuality": [
+      "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
+    ],
+    "districtId": "darijan"
   },
   {
    "id": "kvtva",
