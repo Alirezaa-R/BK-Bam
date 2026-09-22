@@ -40,7 +40,7 @@
    "hasPhoto": false,
    "image": "images/villages/defaults/default-1.webp",
    "thumbnail": "images/villages/thumbs/default-1.webp",
-   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/eslam-abad.jpg",
    "sourceImageFile": "default.jpg",
    "summary": {
     "householdCount": 56,
@@ -133,7 +133,7 @@
    "hasPhoto": false,
    "image": "images/villages/defaults/default-2.webp",
    "thumbnail": "images/villages/thumbs/default-2.webp",
-   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/amir-abad.jpg",
    "sourceImageFile": "default.jpg",
    "summary": {
     "householdCount": 689,
@@ -453,7 +453,7 @@
    "hasPhoto": false,
    "image": "images/villages/defaults/default-5.webp",
    "thumbnail": "images/villages/thumbs/default-5.webp",
-   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/bidaran-no.jpg",
    "sourceImageFile": "default.jpg",
    "summary": {
     "householdCount": 151,
