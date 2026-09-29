@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "generatedAtUtc": "2026-09-22T03:03:16Z",
+ "generatedAtUtc": "2026-09-29T15:12:50Z",
  "generatedBy": "tools/build-dataset.py",
  "source": {
   "repository": "Alirezaa-R/BK-Bam",
@@ -16,8 +16,8 @@
   "populationTotalMismatch": "جمع زن و مرد با جمع کل اعلام‌شده در منبع برابر نیست؛ هر دو مقدار بدون تغییر نگه داشته شده‌اند.",
   "*FlagCorrected": "پرچم خلاصه در منبع false بود اما فهرست جزئیات آن را تأیید می‌کرد؛ به true اصلاح شد.",
   "noCrisisRecommendations": "برای این روستا سند توصیه‌های مدیریت بحران در منبع ثبت نشده است.",
-  "hasDehyari": "میدان «دهیاری» در هر روستا با کلید hasDehyari آمده است: 44 روستای دارای دهیاری (دهستان‌های حومه و دریجان) و 62 روستای فاقد دهیاری (همه در دهستان دریجان).",
-  "defaultImages": "برای روستاهایی که تصویر واقعی ندارند یکی از تصاویر «پیش‌فرض» (images/villages/defaults) به نوبت به کار رفته است؛ این تصاویر عکس واقعی روستا نیستند.",
+  "hasDehyari": "میدان «دهیاری» در هر روستا با کلید hasDehyari آمده است: 44 روستای دارای دهیاری (15 حومه · 29 دریجان) و 62 روستای فاقد دهیاری (9 حومه · 53 دریجان).",
+  "defaultImages": "برای روستاهایی که تصویر واقعی ندارند یکی از ۱۱ عکس «پیش‌فرض» (images/villages/defaults/default-1 … default-11) به نوبت به کار رفته است؛ این عکس‌ها از خود منطقه‌اند ولی تصویر همان روستا نیستند.",
   "newVillages": "برای روستاهای تازه فقط جمعیت، خانوار و (در صورت وجود) مختصات ثبت شده است؛ امکانات، مخاطرات و توصیه‌های مدیریت بحران آن‌ها هنوز در فهرست نیامده است."
  },
  "districts": [
@@ -40,8 +40,8 @@
    "hasPhoto": false,
    "image": "images/villages/defaults/default-1.webp",
    "thumbnail": "images/villages/thumbs/default-1.webp",
-   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/eslam-abad.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 56,
     "villageCouncilBuilding": false,
@@ -133,8 +133,8 @@
    "hasPhoto": false,
    "image": "images/villages/defaults/default-2.webp",
    "thumbnail": "images/villages/thumbs/default-2.webp",
-   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/amir-abad.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 689,
     "villageCouncilBuilding": true,
@@ -453,8 +453,8 @@
    "hasPhoto": false,
    "image": "images/villages/defaults/default-5.webp",
    "thumbnail": "images/villages/thumbs/default-5.webp",
-   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/bidaran-no.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 151,
     "villageCouncilBuilding": false,
@@ -545,130 +545,130 @@
    "hasDehyari": true
   },
   {
-    "id": "pakam",
-    "name": "پاکم",
-    "districtName": "حومه",
-    "hasPhoto": false,
-    "image": "images/villages/defaults/default-6.webp",
-    "thumbnail": "images/villages/thumbs/default-6.webp",
-    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/pakam.jpg",
-    "sourceImageFile": "default.jpg",
-    "summary": {
-      "householdCount": 228,
-      "villageCouncilBuilding": true,
-      "healthHouse": true,
-      "sportsFacility": false,
-      "religiousSites": true,
-      "basijBase": false,
-      "school": true,
-      "hazards": true,
-      "crisisManagementFacilities": true
+   "id": "pakam",
+   "name": "پاکم",
+   "districtName": "حومه",
+   "hasPhoto": false,
+   "image": "images/villages/defaults/default-6.webp",
+   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+   "sourceImageFile": null,
+   "summary": {
+    "householdCount": 228,
+    "villageCouncilBuilding": true,
+    "healthHouse": true,
+    "sportsFacility": false,
+    "religiousSites": true,
+    "basijBase": false,
+    "school": true,
+    "hazards": true,
+    "crisisManagementFacilities": true
+   },
+   "details": {
+    "population": {
+     "total": 802,
+     "female": 382,
+     "male": 420
     },
-    "details": {
-      "population": {
-        "total": 802,
-        "female": 382,
-        "male": 420
-      },
-      "elevation": 1150,
-      "location": {
-        "latitude": 29.12788,
-        "longitude": 58.26712
-      },
-      "distancesKm": {
-        "toHealthCenter": 13.25,
-        "toEmergencyBase": 1.45,
-        "toDistrictCenter": 1.0
-      },
-      "school": [
-        "دبستان دخترانه",
-        "دبستان پسرانه"
-      ],
-      "religiousSites": [
-        "مسجد صاحب الزمان (عج)",
-        "حسینیه ابوالفضل (ع)"
-      ],
-      "sportsFacility": null,
-      "hazards": [
-        "سیل-رودخانه خواجه عسکر",
-        "جاری شدن سیلاب جاده بم-کرمان به داخل روستا"
-      ],
-      "crisisManagementFacilities": [
-        "ساختمان مدیریت بحران بخش"
-      ],
-      "description": null
+    "elevation": 1150,
+    "location": {
+     "latitude": 29.12788,
+     "longitude": 58.26712
     },
-    "crisisManagementRecommendations": [
-      {
-        "mainHazard": "سیل-رودخانه خواجه عسکر",
-        "preventiveActions": [
-          "شناسایی و علامت‌گذاری محدوده‌های نزدیک به رودخانه خواجه عسکر و مسیرهای احتمالی ورود سیلاب به بافت روستا",
-          "تعیین محل امن و مرتفع (ساختمان مدیریت بحران بخش) برای تجمع و اسکان موقت جمعیت ۸۰۲ نفری روستا",
-          "بررسی و پاکسازی دوره‌ای بستر رودخانه، آبراهه‌ها و نقاط مستعد انسداد یا انحراف آب پیش از فصل بارندگی",
-          "تعیین و علامت‌گذاری مسیر تخلیه اضطراری دور از حریم رودخانه به سمت محدوده امن",
-          "هماهنگی پیشین با پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) و مشخص‌کردن مسیر دسترسی سریع نیروهای امدادی",
-          "اطلاع‌رسانی به خانوارهای ساکن در حریم رودخانه درباره ممنوعیت تردد یا توقف هنگام هشدار سیلاب",
-          "تهیه فهرست خانوارها و شناسایی افراد نیازمند کمک در زمان تخلیه، به‌ویژه سالمندان و کودکان",
-          "تأمین اقلام اولیه (آب آشامیدنی، چراغ اضطراری، جعبه کمک‌های اولیه و وسایل ارتباطی) در محل تجمع اضطراری"
-        ],
-        "duringIncidentActions": [
-          "پایش مستمر تراز آب رودخانه خواجه عسکر و بارندگی در بالادست و انتقال سریع هشدار به اهالی از طریق دهیاری",
-          "هدایت اهالی به محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان، سالمندان و افراد کم‌توان",
-          "مسدودسازی مسیرهای نزدیک به رودخانه برای جلوگیری از عبور خودرو و عابر در زمان طغیان",
-          "درخواست فوری اعزام نیرو از پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) در صورت وقوع حادثه",
-          "هماهنگی با شورای اسلامی روستا و ستاد مدیریت بحران شهرستان بم برای مدیریت عملیات امداد و اطلاع‌رسانی",
-          "بررسی وضعیت پل‌ها، کانال‌ها و اراضی کشاورزی مجاور رودخانه پس از فروکش سیلاب و گزارش خسارات"
-        ]
-      },
-      {
-        "mainHazard": "جاری شدن سیلاب جاده بم-کرمان به داخل روستا",
-        "preventiveActions": [
-          "شناسایی نقاط ورود سیلاب از جاده بم-کرمان به داخل بافت روستا و علامت‌گذاری آن‌ها",
-          "تعیین محل امن (ساختمان مدیریت بحران بخش) برای تجمع اضطراری جمعیت ۸۰۲ نفری روستا در صورت ورود سیلاب",
-          "بهسازی و پاکسازی مستمر آبروها و مسیرهای هدایت آب جاده به خارج از محدوده مسکونی پیش از فصل بارندگی",
-          "هماهنگی با راهداری جهت بررسی و اصلاح شیب‌بندی و آبروهای جاده بم-کرمان در مجاورت روستا",
-          "هماهنگی پیشین با پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) جهت واکنش سریع",
-          "آموزش اهالی درباره خطر ورود ناگهانی سیلاب از جاده و لزوم پرهیز از تردد در زمان بارندگی شدید"
-        ],
-        "duringIncidentActions": [
-          "پایش مستمر وضعیت بارندگی و جریان آب جاده بم-کرمان و اعلام سریع هشدار به اهالی",
-          "مسدودسازی موقت ورودی‌های آب‌گیر برای جلوگیری از نفوذ سیلاب به داخل بافت روستا",
-          "هدایت اهالی به محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان و سالمندان",
-          "درخواست فوری کمک از پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) در صورت وقوع حادثه",
-          "پایش وضعیت تا فروکش کامل سیلاب و بررسی خسارات وارده به منازل و معابر روستا"
-        ]
-      }
+    "distancesKm": {
+     "toHealthCenter": 13.25,
+     "toEmergencyBase": 1.45,
+     "toDistrictCenter": 1.0
+    },
+    "school": [
+     "دبستان دخترانه",
+     "دبستان پسرانه"
     ],
-    "dataQuality": [],
-    "districtId": "humeh",
-    "nearest": [
-      {
-        "id": "darbagh",
-        "name": "درباغ",
-        "distanceKm": 0.56
-      },
-      {
-        "id": "ghaleh-askar",
-        "name": "قلعه عسکر",
-        "distanceKm": 0.56
-      },
-      {
-        "id": "anaran",
-        "name": "اناران",
-        "distanceKm": 0.56
-      }
+    "religiousSites": [
+     "مسجد صاحب الزمان (عج)",
+     "حسینیه ابوالفضل (ع)"
     ],
-    "hasDehyari": true
+    "sportsFacility": null,
+    "hazards": [
+     "سیل-رودخانه خواجه عسکر",
+     "جاری شدن سیلاب جاده بم-کرمان به داخل روستا"
+    ],
+    "crisisManagementFacilities": [
+     "ساختمان مدیریت بحران بخش"
+    ],
+    "description": null
+   },
+   "crisisManagementRecommendations": [
+    {
+     "mainHazard": "سیل-رودخانه خواجه عسکر",
+     "preventiveActions": [
+      "شناسایی و علامت‌گذاری محدوده‌های نزدیک به رودخانه خواجه عسکر و مسیرهای احتمالی ورود سیلاب به بافت روستا",
+      "تعیین محل امن و مرتفع (ساختمان مدیریت بحران بخش) برای تجمع و اسکان موقت جمعیت ۸۰۲ نفری روستا",
+      "بررسی و پاکسازی دوره‌ای بستر رودخانه، آبراهه‌ها و نقاط مستعد انسداد یا انحراف آب پیش از فصل بارندگی",
+      "تعیین و علامت‌گذاری مسیر تخلیه اضطراری دور از حریم رودخانه به سمت محدوده امن",
+      "هماهنگی پیشین با پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) و مشخص‌کردن مسیر دسترسی سریع نیروهای امدادی",
+      "اطلاع‌رسانی به خانوارهای ساکن در حریم رودخانه درباره ممنوعیت تردد یا توقف هنگام هشدار سیلاب",
+      "تهیه فهرست خانوارها و شناسایی افراد نیازمند کمک در زمان تخلیه، به‌ویژه سالمندان و کودکان",
+      "تأمین اقلام اولیه (آب آشامیدنی، چراغ اضطراری، جعبه کمک‌های اولیه و وسایل ارتباطی) در محل تجمع اضطراری"
+     ],
+     "duringIncidentActions": [
+      "پایش مستمر تراز آب رودخانه خواجه عسکر و بارندگی در بالادست و انتقال سریع هشدار به اهالی از طریق دهیاری",
+      "هدایت اهالی به محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان، سالمندان و افراد کم‌توان",
+      "مسدودسازی مسیرهای نزدیک به رودخانه برای جلوگیری از عبور خودرو و عابر در زمان طغیان",
+      "درخواست فوری اعزام نیرو از پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) در صورت وقوع حادثه",
+      "هماهنگی با شورای اسلامی روستا و ستاد مدیریت بحران شهرستان بم برای مدیریت عملیات امداد و اطلاع‌رسانی",
+      "بررسی وضعیت پل‌ها، کانال‌ها و اراضی کشاورزی مجاور رودخانه پس از فروکش سیلاب و گزارش خسارات"
+     ]
+    },
+    {
+     "mainHazard": "جاری شدن سیلاب جاده بم-کرمان به داخل روستا",
+     "preventiveActions": [
+      "شناسایی نقاط ورود سیلاب از جاده بم-کرمان به داخل بافت روستا و علامت‌گذاری آن‌ها",
+      "تعیین محل امن (ساختمان مدیریت بحران بخش) برای تجمع اضطراری جمعیت ۸۰۲ نفری روستا در صورت ورود سیلاب",
+      "بهسازی و پاکسازی مستمر آبروها و مسیرهای هدایت آب جاده به خارج از محدوده مسکونی پیش از فصل بارندگی",
+      "هماهنگی با راهداری جهت بررسی و اصلاح شیب‌بندی و آبروهای جاده بم-کرمان در مجاورت روستا",
+      "هماهنگی پیشین با پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) جهت واکنش سریع",
+      "آموزش اهالی درباره خطر ورود ناگهانی سیلاب از جاده و لزوم پرهیز از تردد در زمان بارندگی شدید"
+     ],
+     "duringIncidentActions": [
+      "پایش مستمر وضعیت بارندگی و جریان آب جاده بم-کرمان و اعلام سریع هشدار به اهالی",
+      "مسدودسازی موقت ورودی‌های آب‌گیر برای جلوگیری از نفوذ سیلاب به داخل بافت روستا",
+      "هدایت اهالی به محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان و سالمندان",
+      "درخواست فوری کمک از پایگاه اورژانس (فاصله ۱.۴۵ کیلومتری) در صورت وقوع حادثه",
+      "پایش وضعیت تا فروکش کامل سیلاب و بررسی خسارات وارده به منازل و معابر روستا"
+     ]
+    }
+   ],
+   "dataQuality": [],
+   "districtId": "humeh",
+   "nearest": [
+    {
+     "id": "darbagh",
+     "name": "درباغ",
+     "distanceKm": 0.56
+    },
+    {
+     "id": "ghaleh-askar",
+     "name": "قلعه عسکر",
+     "distanceKm": 0.56
+    },
+    {
+     "id": "anaran",
+     "name": "اناران",
+     "distanceKm": 0.56
+    }
+   ],
+   "hasDehyari": true
   },
   {
    "id": "papdeh",
    "name": "پاپده",
-   "districtName": "حومه",
+   "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 40,
     "villageCouncilBuilding": false,
@@ -731,7 +731,7 @@
     }
    ],
    "dataQuality": [],
-   "districtId": "humeh",
+   "districtId": "darijan",
    "nearest": [
     {
      "id": "khajeh-nezam",
@@ -948,10 +948,10 @@
    "name": "خواجه نظام",
    "districtName": "حومه",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-10.webp",
+   "thumbnail": "images/villages/thumbs/default-10.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 136,
     "villageCouncilBuilding": true,
@@ -1042,10 +1042,10 @@
    "name": "درباغ",
    "districtName": "حومه",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-11.webp",
+   "thumbnail": "images/villages/thumbs/default-11.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 116,
     "villageCouncilBuilding": false,
@@ -1115,10 +1115,10 @@
    "name": "سرجنگل",
    "districtName": "حومه",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-1.webp",
+   "thumbnail": "images/villages/thumbs/default-1.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 73,
     "villageCouncilBuilding": false,
@@ -1184,10 +1184,10 @@
    "name": "قلعه عسکر",
    "districtName": "حومه",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-2.webp",
+   "thumbnail": "images/villages/thumbs/default-2.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 139,
     "villageCouncilBuilding": false,
@@ -1253,10 +1253,10 @@
    "name": "گاومرده",
    "districtName": "حومه",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-3.webp",
+   "thumbnail": "images/villages/thumbs/default-3.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 36,
     "villageCouncilBuilding": false,
@@ -1363,109 +1363,109 @@
    "hasDehyari": true
   },
   {
-    "id": "gazdar",
-    "name": "گزدر",
-    "districtName": "حومه",
-    "hasPhoto": false,
-    "image": "images/villages/defaults/default-3.webp",
-    "thumbnail": "images/villages/thumbs/default-3.webp",
-    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/Gazdar.jpg",
-    "sourceImageFile": "default.jpg",
-    "summary": {
-      "householdCount": 80,
-      "villageCouncilBuilding": false,
-      "healthHouse": false,
-      "sportsFacility": false,
-      "religiousSites": true,
-      "basijBase": true,
-      "school": true,
-      "hazards": true,
-      "crisisManagementFacilities": true
+   "id": "gazdar",
+   "name": "گزدر",
+   "districtName": "حومه",
+   "hasPhoto": false,
+   "image": "images/villages/defaults/default-4.webp",
+   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+   "sourceImageFile": null,
+   "summary": {
+    "householdCount": 80,
+    "villageCouncilBuilding": false,
+    "healthHouse": false,
+    "sportsFacility": false,
+    "religiousSites": true,
+    "basijBase": true,
+    "school": true,
+    "hazards": true,
+    "crisisManagementFacilities": true
+   },
+   "details": {
+    "population": {
+     "total": 265,
+     "female": 130,
+     "male": 135
     },
-    "details": {
-      "population": {
-        "total": 265,
-        "female": 130,
-        "male": 135
-      },
-      "elevation": 1150,
-      "location": {
-        "latitude": 29.12848,
-        "longitude": 58.25301
-      },
-      "distancesKm": {
-        "toHealthCenter": 14.52,
-        "toEmergencyBase": 0.68,
-        "toDistrictCenter": 1.41
-      },
-      "school": [
-        "مدرسه ابتدایی مختلط"
-      ],
-      "religiousSites": [
-        "مسجد ابوالفضل (ع)"
-      ],
-      "sportsFacility": null,
-      "hazards": [
-        "سیل"
-      ],
-      "crisisManagementFacilities": [
-        "ساختمان مدیریت بحران بخش"
-      ],
-      "description": null
+    "elevation": 1150,
+    "location": {
+     "latitude": 29.12848,
+     "longitude": 58.25301
     },
-    "crisisManagementRecommendations": [
-      {
-        "mainHazard": "سیل",
-        "preventiveActions": [
-          "شناسایی و علامت‌گذاری مسیرهای احتمالی ورود سیلاب و نقاط مستعد آب‌گرفتگی در محدوده روستای گزدر",
-          "تعیین و ایمن‌سازی یک محل امن و مرتفع (ساختمان مدیریت بحران بخش) برای تجمع و اسکان موقت جمعیت ۲۶۵ نفری روستا",
-          "لایروبی و پاکسازی دوره‌ای آبراهه‌ها، جوی‌ها و نقاط مستعد انسداد پیش از آغاز فصل بارندگی",
-          "تعیین و علامت‌گذاری حداقل یک مسیر تخلیه اضطراری از نقاط پرخطر به سمت محل امن",
-          "هماهنگی پیشین با ساختمان مدیریت بحران بخش برای تدوین پروتکل هشدار و واکنش سریع",
-          "هماهنگی از پیش با پایگاه اورژانس (در فاصله ۰.۶۸ کیلومتری) برای تسریع اعزام نیرو هنگام بروز سیلاب",
-          "تهیه فهرست خانوارها و شناسایی افراد نیازمند کمک هنگام تخلیه، به‌ویژه سالمندان و کودکان",
-          "آموزش اهالی درباره خودداری از تردد و توقف در مسیرهای دارای جریان آب هنگام هشدار سیلاب"
-        ],
-        "duringIncidentActions": [
-          "پایش مستمر بارندگی و وضعیت آبراهه‌ها و اعلام سریع هشدار به اهالی، به‌ویژه خانوارهای نزدیک به مسیرهای سیل‌گیر",
-          "هدایت منظم اهالی به سمت محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان، سالمندان و افراد کم‌توان",
-          "مسدودسازی آنی مسیرهای آب‌گرفته برای جلوگیری از تردد خودرو و عابر",
-          "اطلاع‌رسانی و درخواست کمک از پایگاه اورژانس (فاصله ۰.۶۸ کیلومتری) در صورت نیاز به امداد فوری",
-          "استقرار مسئولین محلی در ساختمان مدیریت بحران بخش جهت هدایت عملیات و ارتباط با ستاد مدیریت بحران شهرستان بم",
-          "بررسی وضعیت خانوارهای آسیب‌دیده پس از فروکش سیلاب و گزارش خسارات به مراجع ذی‌ربط"
-        ]
-      }
+    "distancesKm": {
+     "toHealthCenter": 14.52,
+     "toEmergencyBase": 0.68,
+     "toDistrictCenter": 1.41
+    },
+    "school": [
+     "مدرسه ابتدایی مختلط"
     ],
-    "dataQuality": [],
-    "districtId": "humeh",
-    "nearest": [
-      {
-        "id": "bidaran-kohneh",
-        "name": "بیدران کهنه",
-        "distanceKm": 0.63
-      },
-      {
-        "id": "bidaran-no",
-        "name": "بیدران نو",
-        "distanceKm": 0.64
-      },
-      {
-        "id": "sarjangal",
-        "name": "سرجنگل",
-        "distanceKm": 0.92
-      }
+    "religiousSites": [
+     "مسجد ابوالفضل (ع)"
     ],
-    "hasDehyari": true
+    "sportsFacility": null,
+    "hazards": [
+     "سیل"
+    ],
+    "crisisManagementFacilities": [
+     "ساختمان مدیریت بحران بخش"
+    ],
+    "description": null
+   },
+   "crisisManagementRecommendations": [
+    {
+     "mainHazard": "سیل",
+     "preventiveActions": [
+      "شناسایی و علامت‌گذاری مسیرهای احتمالی ورود سیلاب و نقاط مستعد آب‌گرفتگی در محدوده روستای گزدر",
+      "تعیین و ایمن‌سازی یک محل امن و مرتفع (ساختمان مدیریت بحران بخش) برای تجمع و اسکان موقت جمعیت ۲۶۵ نفری روستا",
+      "لایروبی و پاکسازی دوره‌ای آبراهه‌ها، جوی‌ها و نقاط مستعد انسداد پیش از آغاز فصل بارندگی",
+      "تعیین و علامت‌گذاری حداقل یک مسیر تخلیه اضطراری از نقاط پرخطر به سمت محل امن",
+      "هماهنگی پیشین با ساختمان مدیریت بحران بخش برای تدوین پروتکل هشدار و واکنش سریع",
+      "هماهنگی از پیش با پایگاه اورژانس (در فاصله ۰.۶۸ کیلومتری) برای تسریع اعزام نیرو هنگام بروز سیلاب",
+      "تهیه فهرست خانوارها و شناسایی افراد نیازمند کمک هنگام تخلیه، به‌ویژه سالمندان و کودکان",
+      "آموزش اهالی درباره خودداری از تردد و توقف در مسیرهای دارای جریان آب هنگام هشدار سیلاب"
+     ],
+     "duringIncidentActions": [
+      "پایش مستمر بارندگی و وضعیت آبراهه‌ها و اعلام سریع هشدار به اهالی، به‌ویژه خانوارهای نزدیک به مسیرهای سیل‌گیر",
+      "هدایت منظم اهالی به سمت محل امن (ساختمان مدیریت بحران بخش) با اولویت کودکان، سالمندان و افراد کم‌توان",
+      "مسدودسازی آنی مسیرهای آب‌گرفته برای جلوگیری از تردد خودرو و عابر",
+      "اطلاع‌رسانی و درخواست کمک از پایگاه اورژانس (فاصله ۰.۶۸ کیلومتری) در صورت نیاز به امداد فوری",
+      "استقرار مسئولین محلی در ساختمان مدیریت بحران بخش جهت هدایت عملیات و ارتباط با ستاد مدیریت بحران شهرستان بم",
+      "بررسی وضعیت خانوارهای آسیب‌دیده پس از فروکش سیلاب و گزارش خسارات به مراجع ذی‌ربط"
+     ]
+    }
+   ],
+   "dataQuality": [],
+   "districtId": "humeh",
+   "nearest": [
+    {
+     "id": "bidaran-kohneh",
+     "name": "بیدران کهنه",
+     "distanceKm": 0.63
+    },
+    {
+     "id": "bidaran-no",
+     "name": "بیدران نو",
+     "distanceKm": 0.64
+    },
+    {
+     "id": "sarjangal",
+     "name": "سرجنگل",
+     "distanceKm": 0.92
+    }
+   ],
+   "hasDehyari": true
   },
   {
    "id": "hararun",
    "name": "هرارون",
    "districtName": "حومه",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-5.webp",
+   "thumbnail": "images/villages/thumbs/default-5.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 148,
     "villageCouncilBuilding": false,
@@ -1624,10 +1624,10 @@
    "name": "آبگرم",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 136,
     "villageCouncilBuilding": true,
@@ -1819,10 +1819,10 @@
    "name": "باغ تک",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-9.webp",
+   "thumbnail": "images/villages/thumbs/default-9.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 87,
     "villageCouncilBuilding": false,
@@ -2000,10 +2000,10 @@
    "name": "توکل آباد",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-11.webp",
+   "thumbnail": "images/villages/thumbs/default-11.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 50,
     "villageCouncilBuilding": false,
@@ -2070,10 +2070,10 @@
    "name": "تیتوپر",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-1.webp",
+   "thumbnail": "images/villages/thumbs/default-1.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 56,
     "villageCouncilBuilding": false,
@@ -2170,10 +2170,10 @@
    "name": "جزین",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-2.webp",
+   "thumbnail": "images/villages/thumbs/default-2.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 140,
     "villageCouncilBuilding": false,
@@ -2262,10 +2262,10 @@
    "name": "چشمه ها بالا",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-3.webp",
+   "thumbnail": "images/villages/thumbs/default-3.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 37,
     "villageCouncilBuilding": false,
@@ -2329,10 +2329,10 @@
    "name": "داردین",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-4.webp",
+   "thumbnail": "images/villages/thumbs/default-4.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 81,
     "villageCouncilBuilding": false,
@@ -2399,10 +2399,10 @@
    "name": "دارزین",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-5.webp",
+   "thumbnail": "images/villages/thumbs/default-5.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 151,
     "villageCouncilBuilding": false,
@@ -2470,10 +2470,10 @@
    "name": "دربر",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-6.webp",
+   "thumbnail": "images/villages/thumbs/default-6.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 91,
     "villageCouncilBuilding": false,
@@ -2541,10 +2541,10 @@
    "name": "درزرب",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 57,
     "villageCouncilBuilding": false,
@@ -2626,10 +2626,10 @@
    "name": "دریجان",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-8.webp",
+   "thumbnail": "images/villages/thumbs/default-8.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 283,
     "villageCouncilBuilding": false,
@@ -2869,10 +2869,10 @@
    "name": "دهنه سرآسیاب",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-10.webp",
+   "thumbnail": "images/villages/thumbs/default-10.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 69,
     "villageCouncilBuilding": false,
@@ -3176,10 +3176,10 @@
    "name": "سابات",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-2.webp",
+   "thumbnail": "images/villages/thumbs/default-2.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 40,
     "villageCouncilBuilding": false,
@@ -3265,10 +3265,10 @@
    "name": "طاغوک",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-3.webp",
+   "thumbnail": "images/villages/thumbs/default-3.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 45,
     "villageCouncilBuilding": false,
@@ -3421,73 +3421,73 @@
    "hasDehyari": true
   },
   {
-    "id": "kolupdeh",
-    "name": "کلوپده",
-    "districtName": "دریجان",
-    "hasPhoto": false,
-    "image": "images/villages/defaults/default-2.webp",
-    "thumbnail": "images/villages/thumbs/default-2.webp",
-    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/kolupdeh.jpg",
-    "sourceImageFile": "default.jpg",
-    "summary": {
-      "householdCount": 102,
-      "villageCouncilBuilding": false,
-      "healthHouse": false,
-      "sportsFacility": false,
-      "religiousSites": false,
-      "basijBase": false,
-      "school": false,
-      "hazards": false,
-      "crisisManagementFacilities": false
+   "id": "kolupdeh",
+   "name": "کلوپده",
+   "districtName": "دریجان",
+   "hasPhoto": false,
+   "image": "images/villages/defaults/default-5.webp",
+   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
+   "sourceImageFile": null,
+   "summary": {
+    "householdCount": 102,
+    "villageCouncilBuilding": false,
+    "healthHouse": false,
+    "sportsFacility": false,
+    "religiousSites": false,
+    "basijBase": false,
+    "school": false,
+    "hazards": false,
+    "crisisManagementFacilities": false
+   },
+   "details": {
+    "population": {
+     "total": 277,
+     "female": 140,
+     "male": 137
     },
-    "details": {
-      "population": {
-        "total": 227,
-        "female": 140,
-        "male": 137
-      },
-      "elevation": 1912,
-      "location": {
-        "latitude": 28.854651,
-        "longitude": 58.246707
-      },
-      "distancesKm": {
-        "toHealthCenter": 39.04,
-        "toEmergencyBase": 27.43,
-        "toDistrictCenter": 27.77
-      },
-      "school": null,
-      "religiousSites": null,
-      "sportsFacility": null,
-      "hazards": null,
-      "crisisManagementFacilities": null,
-      "description": null
+    "elevation": 1912,
+    "location": {
+     "latitude": 28.854651,
+     "longitude": 58.246707
     },
-    "crisisManagementRecommendations": [],
-    "dataQuality": [
-      "populationTotalMismatch",
-      "noCrisisRecommendations",
-      "مختصات قبلی این روستا با «جزین» یکی بود؛ از فهرست تازه اصلاح شد."
-    ],
-    "districtId": "darijan",
-    "nearest": [
-      {
-        "id": "guk",
-        "name": "گوک",
-        "distanceKm": 2.25
-      },
-      {
-        "id": "darzarb",
-        "name": "درزرب",
-        "distanceKm": 3.79
-      },
-      {
-        "id": "srprydh",
-        "name": "سرپریده",
-        "distanceKm": 4.15
-      }
-    ],
-    "hasDehyari": true
+    "distancesKm": {
+     "toHealthCenter": 39.04,
+     "toEmergencyBase": 27.43,
+     "toDistrictCenter": 27.77
+    },
+    "school": null,
+    "religiousSites": null,
+    "sportsFacility": null,
+    "hazards": null,
+    "crisisManagementFacilities": null,
+    "description": null
+   },
+   "crisisManagementRecommendations": [],
+   "dataQuality": [
+    "populationTotalMismatch",
+    "noCrisisRecommendations",
+    "مختصات قبلی این روستا با «جزین» یکی بود؛ از فهرست تازه اصلاح شد."
+   ],
+   "districtId": "darijan",
+   "nearest": [
+    {
+     "id": "guk",
+     "name": "گوک",
+     "distanceKm": 2.25
+    },
+    {
+     "id": "darzarb",
+     "name": "درزرب",
+     "distanceKm": 3.79
+    },
+    {
+     "id": "srprydh",
+     "name": "سرپریده",
+     "distanceKm": 4.15
+    }
+   ],
+   "hasDehyari": true
   },
   {
    "id": "gazdan",
@@ -3585,10 +3585,10 @@
    "name": "گودپده",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 95,
     "villageCouncilBuilding": false,
@@ -3759,10 +3759,10 @@
    "name": "گوک",
    "districtName": "دریجان",
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-9.webp",
+   "thumbnail": "images/villages/thumbs/default-9.webp",
    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/default.jpg",
-   "sourceImageFile": "default.jpg",
+   "sourceImageFile": null,
    "summary": {
     "householdCount": 66,
     "villageCouncilBuilding": false,
@@ -4007,8 +4007,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-1.webp",
+   "thumbnail": "images/villages/thumbs/default-1.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4074,8 +4074,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-2.webp",
+   "thumbnail": "images/villages/thumbs/default-2.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4141,8 +4141,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-3.webp",
+   "thumbnail": "images/villages/thumbs/default-3.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4208,8 +4208,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-4.webp",
+   "thumbnail": "images/villages/thumbs/default-4.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4275,8 +4275,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-5.webp",
+   "thumbnail": "images/villages/thumbs/default-5.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4342,8 +4342,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-6.webp",
+   "thumbnail": "images/villages/thumbs/default-6.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4409,8 +4409,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4476,8 +4476,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-8.webp",
+   "thumbnail": "images/villages/thumbs/default-8.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4543,8 +4543,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-9.webp",
+   "thumbnail": "images/villages/thumbs/default-9.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4610,8 +4610,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-10.webp",
+   "thumbnail": "images/villages/thumbs/default-10.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4677,8 +4677,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-11.webp",
+   "thumbnail": "images/villages/thumbs/default-11.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4744,8 +4744,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-1.webp",
+   "thumbnail": "images/villages/thumbs/default-1.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4811,8 +4811,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-2.webp",
+   "thumbnail": "images/villages/thumbs/default-2.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -4873,69 +4873,71 @@
    "districtId": "darijan"
   },
   {
-    "id": "hmyd",
-    "name": "حميد",
-    "districtName": "دریجان",
-    "hasDehyari": false,
-    "hasPhoto": false,
-    "sourceImageUrl": "https://raw.githubusercontent.com/Alirezaa-R/BK-Bam/main/images/hmyd.jpg",
-    "sourceImageFile": "default.jpg",
-    "summary": {
-      "householdCount": 43,
-      "villageCouncilBuilding": false,
-      "healthHouse": false,
-      "sportsFacility": false,
-      "religiousSites": false,
-      "basijBase": false,
-      "school": false,
-      "hazards": false,
-      "crisisManagementFacilities": false
+   "id": "hmyd",
+   "name": "حميد",
+   "districtName": "دریجان",
+   "hasDehyari": false,
+   "hasPhoto": false,
+   "image": "images/villages/defaults/default-3.webp",
+   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "sourceImageUrl": null,
+   "sourceImageFile": null,
+   "summary": {
+    "householdCount": 43,
+    "villageCouncilBuilding": false,
+    "healthHouse": false,
+    "sportsFacility": false,
+    "religiousSites": false,
+    "basijBase": false,
+    "school": false,
+    "hazards": false,
+    "crisisManagementFacilities": false
+   },
+   "details": {
+    "population": {
+     "total": 83,
+     "female": null,
+     "male": null
     },
-    "details": {
-      "population": {
-        "total": 93,
-        "female": null,
-        "male": null
-      },
-      "elevation": null,
-      "location": {
-        "latitude": 28.98862,
-        "longitude": 58.030868
-      },
-      "distancesKm": {
-        "toHealthCenter": null,
-        "toEmergencyBase": null,
-        "toDistrictCenter": null
-      },
-      "school": null,
-      "religiousSites": null,
-      "sportsFacility": null,
-      "hazards": null,
-      "crisisManagementFacilities": null,
-      "description": null
+    "elevation": null,
+    "location": {
+     "latitude": 28.98862,
+     "longitude": 58.030868
     },
-    "crisisManagementRecommendations": [],
-    "nearest": [
-      {
-        "id": "putar",
-        "name": "پوطار",
-        "distanceKm": 2.76
-      },
-      {
-        "id": "tavakkolabad",
-        "name": "توکل آباد",
-        "distanceKm": 2.89
-      },
-      {
-        "id": "darijan",
-        "name": "دریجان",
-        "distanceKm": 4.29
-      }
-    ],
-    "dataQuality": [
-      "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
-    ],
-    "districtId": "darijan"
+    "distancesKm": {
+     "toHealthCenter": null,
+     "toEmergencyBase": null,
+     "toDistrictCenter": null
+    },
+    "school": null,
+    "religiousSites": null,
+    "sportsFacility": null,
+    "hazards": null,
+    "crisisManagementFacilities": null,
+    "description": null
+   },
+   "crisisManagementRecommendations": [],
+   "nearest": [
+    {
+     "id": "putar",
+     "name": "پوطار",
+     "distanceKm": 2.76
+    },
+    {
+     "id": "tavakkolabad",
+     "name": "توکل آباد",
+     "distanceKm": 2.89
+    },
+    {
+     "id": "darijan",
+     "name": "دریجان",
+     "distanceKm": 4.29
+    }
+   ],
+   "dataQuality": [
+    "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
+   ],
+   "districtId": "darijan"
   },
   {
    "id": "kvtva",
@@ -4943,8 +4945,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-4.webp",
+   "thumbnail": "images/villages/thumbs/default-4.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5010,8 +5012,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-5.webp",
+   "thumbnail": "images/villages/thumbs/default-5.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5027,7 +5029,7 @@
    },
    "details": {
     "population": {
-     "total": 87,
+     "total": 78,
      "female": null,
      "male": null
     },
@@ -5058,8 +5060,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-6.webp",
+   "thumbnail": "images/villages/thumbs/default-6.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5106,8 +5108,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5154,8 +5156,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-8.webp",
+   "thumbnail": "images/villages/thumbs/default-8.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5199,11 +5201,11 @@
   {
    "id": "brj-dydh-bany",
    "name": "برج دیده بانی",
-   "districtName": "دریجان",
+   "districtName": "حومه",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-9.webp",
+   "thumbnail": "images/villages/thumbs/default-9.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5242,7 +5244,7 @@
    "dataQuality": [
     "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
    ],
-   "districtId": "darijan"
+   "districtId": "humeh"
   },
   {
    "id": "brj-dydh-bany-dvrahy-darzyn",
@@ -5250,8 +5252,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-10.webp",
+   "thumbnail": "images/villages/thumbs/default-10.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5298,8 +5300,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-11.webp",
+   "thumbnail": "images/villages/thumbs/default-11.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5439,7 +5441,7 @@
   {
    "id": "byjny",
    "name": "بیجنی",
-   "districtName": "دریجان",
+   "districtName": "حومه",
    "hasDehyari": false,
    "hasPhoto": false,
    "image": "images/villages/defaults/default-3.webp",
@@ -5482,7 +5484,7 @@
    "dataQuality": [
     "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
    ],
-   "districtId": "darijan"
+   "districtId": "humeh"
   },
   {
    "id": "pydngv",
@@ -5583,7 +5585,7 @@
   {
    "id": "khmrvt-chngy",
    "name": "خمروت چنگی",
-   "districtName": "دریجان",
+   "districtName": "حومه",
    "hasDehyari": false,
    "hasPhoto": false,
    "image": "images/villages/defaults/default-6.webp",
@@ -5626,7 +5628,7 @@
    "dataQuality": [
     "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
    ],
-   "districtId": "darijan"
+   "districtId": "humeh"
   },
   {
    "id": "dr-grdv",
@@ -5634,8 +5636,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5682,8 +5684,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-8.webp",
+   "thumbnail": "images/villages/thumbs/default-8.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5730,8 +5732,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-9.webp",
+   "thumbnail": "images/villages/thumbs/default-9.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5778,8 +5780,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-10.webp",
+   "thumbnail": "images/villages/thumbs/default-10.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5826,8 +5828,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-11.webp",
+   "thumbnail": "images/villages/thumbs/default-11.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5874,8 +5876,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-1.webp",
+   "thumbnail": "images/villages/thumbs/default-1.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5922,8 +5924,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-2.webp",
+   "thumbnail": "images/villages/thumbs/default-2.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -5970,8 +5972,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-3.webp",
+   "thumbnail": "images/villages/thumbs/default-3.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6018,8 +6020,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-4.webp",
+   "thumbnail": "images/villages/thumbs/default-4.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6066,8 +6068,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-5.webp",
+   "thumbnail": "images/villages/thumbs/default-5.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6111,11 +6113,11 @@
   {
    "id": "dh-rvd",
    "name": "ده رود",
-   "districtName": "دریجان",
+   "districtName": "حومه",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-6.webp",
+   "thumbnail": "images/villages/thumbs/default-6.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6154,7 +6156,7 @@
    "dataQuality": [
     "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
    ],
-   "districtId": "darijan"
+   "districtId": "humeh"
   },
   {
    "id": "dhnv",
@@ -6162,8 +6164,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6207,11 +6209,11 @@
   {
    "id": "rh-dar",
    "name": "ره دار",
-   "districtName": "دریجان",
+   "districtName": "حومه",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-8.webp",
+   "thumbnail": "images/villages/thumbs/default-8.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6250,7 +6252,7 @@
    "dataQuality": [
     "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
    ],
-   "districtId": "darijan"
+   "districtId": "humeh"
   },
   {
    "id": "znaghy",
@@ -6258,8 +6260,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-9.webp",
+   "thumbnail": "images/villages/thumbs/default-9.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6306,8 +6308,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-10.webp",
+   "thumbnail": "images/villages/thumbs/default-10.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6351,11 +6353,11 @@
   {
    "id": "sydabad",
    "name": "سعیداباد",
-   "districtName": "دریجان",
+   "districtName": "حومه",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-11.webp",
+   "thumbnail": "images/villages/thumbs/default-11.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6394,7 +6396,7 @@
    "dataQuality": [
     "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
    ],
-   "districtId": "darijan"
+   "districtId": "humeh"
   },
   {
    "id": "sghdrvyyh",
@@ -6402,8 +6404,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-1.webp",
+   "thumbnail": "images/villages/thumbs/default-1.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6450,8 +6452,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-2.webp",
+   "thumbnail": "images/villages/thumbs/default-2.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6498,8 +6500,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-3.webp",
+   "thumbnail": "images/villages/thumbs/default-3.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6546,8 +6548,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-4.webp",
+   "thumbnail": "images/villages/thumbs/default-4.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6594,8 +6596,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-5.webp",
+   "thumbnail": "images/villages/thumbs/default-5.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6639,11 +6641,11 @@
   {
    "id": "shah-mnsvry",
    "name": "شاه منصوری",
-   "districtName": "دریجان",
+   "districtName": "حومه",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-6.webp",
+   "thumbnail": "images/villages/thumbs/default-6.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6682,16 +6684,16 @@
    "dataQuality": [
     "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
    ],
-   "districtId": "darijan"
+   "districtId": "humeh"
   },
   {
    "id": "shah-mhrv",
    "name": "شاه مهرو",
-   "districtName": "دریجان",
+   "districtName": "حومه",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6730,7 +6732,7 @@
    "dataQuality": [
     "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
    ],
-   "districtId": "darijan"
+   "districtId": "humeh"
   },
   {
    "id": "shrkt-hrys",
@@ -6738,8 +6740,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-8.webp",
+   "thumbnail": "images/villages/thumbs/default-8.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6786,8 +6788,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-9.webp",
+   "thumbnail": "images/villages/thumbs/default-9.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6834,8 +6836,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-10.webp",
+   "thumbnail": "images/villages/thumbs/default-10.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6882,8 +6884,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-11.webp",
+   "thumbnail": "images/villages/thumbs/default-11.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6930,8 +6932,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-1.webp",
+   "thumbnail": "images/villages/thumbs/default-1.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -6978,8 +6980,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-5.webp",
-   "thumbnail": "images/villages/thumbs/default-5.webp",
+   "image": "images/villages/defaults/default-2.webp",
+   "thumbnail": "images/villages/thumbs/default-2.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -7026,8 +7028,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-6.webp",
-   "thumbnail": "images/villages/thumbs/default-6.webp",
+   "image": "images/villages/defaults/default-3.webp",
+   "thumbnail": "images/villages/thumbs/default-3.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -7071,11 +7073,11 @@
   {
    "id": "kvrh",
    "name": "کوره",
-   "districtName": "دریجان",
+   "districtName": "حومه",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-1.webp",
-   "thumbnail": "images/villages/thumbs/default-1.webp",
+   "image": "images/villages/defaults/default-4.webp",
+   "thumbnail": "images/villages/thumbs/default-4.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -7114,7 +7116,7 @@
    "dataQuality": [
     "اطلاعات میدانی این روستا (امکانات، مخاطرات و توصیه‌های بحران) هنوز ثبت نشده است."
    ],
-   "districtId": "darijan"
+   "districtId": "humeh"
   },
   {
    "id": "malk-abad",
@@ -7122,8 +7124,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-2.webp",
-   "thumbnail": "images/villages/thumbs/default-2.webp",
+   "image": "images/villages/defaults/default-5.webp",
+   "thumbnail": "images/villages/thumbs/default-5.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -7170,8 +7172,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-3.webp",
-   "thumbnail": "images/villages/thumbs/default-3.webp",
+   "image": "images/villages/defaults/default-6.webp",
+   "thumbnail": "images/villages/thumbs/default-6.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
@@ -7218,8 +7220,8 @@
    "districtName": "دریجان",
    "hasDehyari": false,
    "hasPhoto": false,
-   "image": "images/villages/defaults/default-4.webp",
-   "thumbnail": "images/villages/thumbs/default-4.webp",
+   "image": "images/villages/defaults/default-7.webp",
+   "thumbnail": "images/villages/thumbs/default-7.webp",
    "sourceImageUrl": null,
    "sourceImageFile": null,
    "summary": {
